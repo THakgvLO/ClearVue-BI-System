@@ -1,0 +1,90 @@
+CUSTOMER_NUMBER,CCAT_CODE,REGION_CODE,REP_CODE,SETTLE_TERMS,NORMAL_PAYTERMS,DISCOUNT,CREDIT_LIMIT,REGION_DESC,CCAT_DESC,PARAMETER,PARAMETER_GROUP
+ACLS02,39,6a,02,0,30,0,10000,East Cape,Eastern Cape,Trading Account,Account Status
+AFRN05,36,7c,05C,0,120,0,10000,Gauteng N - Eastgate/Norwood/Midrand,Gauteng North - Eastgate / Norwood / Midrand,Trading Account,Account Status
+AGRY01,46,2b,05,0,120,0,5000,Krugersdorp / Sun City,Krugersdorp Suncity,Trading Account,Account Status
+AICR09,31,8a,ZZZ,0,120,0,6000,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Closed,Account Status
+AKHN07,41,10a,02,0,120,0,999999,Durban,KZN/DBN,Trading Account,Account Status
+ASTL01,40,6b,04C,0,120,0,2000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+ASTN01,30,7a,05,0,120,0,7500,Gauteng N - Sandton,Gauteng North - Sandton,Promotional Stand,Retail Format
+BROA01,40,6b,04C,0,120,0,5000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+BURA01,32,7b,05C,0,30,0,1000,Gauteng N - Randburg/Rivonia,Gauteng North - Randburg / Rivonia,Trading Account,Account Status
+CBUH01,40,6b,04C,0,120,0,4000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+CBUH02,40,6b,04C,0,120,0,4000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+DMEI01,36,7c,05C,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand,Gauteng North - Eastgate / Norwood / Midrand,Trading Account,Account Status
+DMIR01,36,7c,05,0,120,0,0,Gauteng N - Eastgate/Norwood/Midrand,Gauteng North - Eastgate / Norwood / Midrand,Trading Account,Account Status
+DVIA01,47,2c,06C,0,120,0,1000,Potch / Krugersdorp / Kuruman,Potch KlerksD Kuruman,Trading Account,Account Status
+EALX03,36,7c,05C,0,120,0,0,Gauteng N - Eastgate/Norwood/Midrand,Gauteng North - Eastgate / Norwood / Midrand,Trading Account,Account Status
+EEYB01,46,2b,07C,0,120,0,7500,Krugersdorp / Sun City,Krugersdorp Suncity,Trading Account,Account Status
+EEYE02,29,5a,06,0,120,0,24500,Botswana and Exports,Botswana (Exports),Trading Account,Account Status
+EPRT05,31,8a,06C,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Trading Account,Account Status
+EROT01,34,1e,03,0,120,0,20000,Witbank/Middelburg,Witbank / Middelburg (Mpumalanga),Trading Account,Account Status
+ESHR07,30,7a,05C,0,120,0,5000,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+ESPC68,40,6b,04C,0,120,0,15000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+ESPC71,40,6b,04C,0,120,0,3000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+ESTE01,31,8a,06C,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Trading Account,Account Status
+FMOF01,41,10a,02C,0,120,0,999999,Durban,KZN/DBN,Trading Account,Account Status
+GMEA02,32,7b,05C,0,120,0,5000,Gauteng N - Randburg/Rivonia,Gauteng North - Randburg / Rivonia,Trading Account,Account Status
+GWAN01,40,6b,04,0,120,0,5000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+HKAM02,40,6b,04,0,120,0,7500,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+HSCN02,40,6b,04C,0,120,0,10000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+HSCO02,45,2a,06C,0,120,0,5000,Vaal Triangle,Vaal Triangle,Trading Account,Account Status
+HUML01,41,10a,02C,0,120,0,7500,Durban,KZN/DBN,Trading Account,Account Status
+IERN03,30,7a,05C,0,120,0,15000,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+IHEN01,33,1d,03C,0,120,0,6000,Pretoria,Pretoria,Trading Account,Account Status
+IMER03,2,1a,03C,0,120,0,2000,Pretoria Central,Pretoria Central,Trading Account,Account Status
+INAD02,40,6b,04C,0,120,0,2000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+INAD04,39,6a,04C,0,120,0,5000,East Cape,Eastern Cape,Trading Account,Account Status
+ISPL02,4,1b,03C,0,120,0,7500,Pretoria North/South/West,Pretoria North/South /West,Trading Account,Account Status
+KMAA02,41,10a,02C,0,120,0,30000,Durban,KZN/DBN,Trading Account,Account Status
+LMEL06,25,11b,02,0,120,0,15000,Ermelo / Piet Retief,Ermelo / Piet Retief,Promotional Stand,Retail Format
+LSOO01,40,6b,04C,0,120,0,3000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+LTIL01,45,2a,06,0,120,0,15000,Vaal Triangle,Vaal Triangle,Trading Account,Account Status
+LVIL02,40,6b,04,0,120,0,999999,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+MGAS01,40,6b,04C,0,120,0,5000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+MLEN01,31,8a,06C,0,120,0,4000,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Trading Account,Account Status
+MSAW01,40,6b,04C,0,120,0,999,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+MSAW02,40,6b,04C,0,120,0,999999,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+NKOQ01,39,6a,02,0,120,0,999999,East Cape,Eastern Cape,Trading Account,Account Status
+NSUG11,41,10a,02,0,120,0,0,Durban,KZN/DBN,Trading Account,Account Status
+NVAG03,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman,Potch KlerksD Kuruman,Trading Account,Account Status
+NVAG04,33,1d,03C,0,120,0,500,Pretoria,Pretoria,Trading Account,Account Status
+NVAN01,19,4b,06,0,120,0,0,Nelspruit / Tzaneen,Nelspruit / Tzaneen,Trading Account,Account Status
+NVAR09,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus,Pietersburg / Potgietersrus,Trading Account,Account Status
+OBHO03,40,6b,04C,0,120,0,4000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+OIFC01,16,1c,03C,0,120,0,2000,Pretoria East,Pretoria East,Trading Account,Account Status
+OKHT01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Trading Account,Account Status
+OPRM01,43,3a,06,0,120,0,4000,Soweto/Lenasia,Soweto / Lenasia,Promotion,Marketing
+OROS01,31,8a,06C,0,120,0,1500,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Trading Account,Account Status
+OROS05,37,11a,03C,0,120,0,10000,Free State / Lesotho,Free State,Trading Account,Account Status
+OROS06,40,6b,04C,0,120,0,2000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+PHYE02,31,8a,05C,0,120,0,500,Gauteng E - Alberton/Benoni/Kempton,Gauteng East,Trading Account,Account Status
+PSUE02,30,7a,05,0,120,0,5000,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+RBEM02,2,1a,03C,0,120,0,5000,Pretoria Central,Pretoria Central,Trading Account,Account Status
+RMAE01,14,3b,06C,0,120,5,4000,Johannesburg CBD,Johannesburg CBD,Trading Account,Account Status
+RNOT04,33,1d,03,0,120,0,1000,Pretoria,Pretoria,Trading Account,Account Status
+RTOG12,18,4a,06,0,120,0,20000,Pietersburg / Potgietersrus,Pietersburg / Potgietersrus,Trading Account,Account Status
+SABO01,40,6b,04C,0,120,0,3000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+SBIM01,47,2c,06,0,120,0,4000,Potch / Krugersdorp / Kuruman,Potch KlerksD Kuruman,Trading Account,Account Status
+SDEM01,4,1b,03,0,120,0,20000,Pretoria North/South/West,Pretoria North/South /West,Trading Account,Account Status
+SEAT04,33,1d,03,0,120,0,6000,Pretoria,Pretoria,Trading Account,Account Status
+SINI01,36,7c,05C,0,120,0,2000,Gauteng N - Eastgate/Norwood/Midrand,Gauteng North - Eastgate / Norwood / Midrand,Trading Account,Account Status
+SKAO01,41,10a,02C,0,120,0,3000,Durban,KZN/DBN,Trading Account,Account Status
+SMAT02,16,1c,03C,0,120,0,2000,Pretoria East,Pretoria East,Trading Account,Account Status
+SNUI02,40,6b,04C,0,120,0,2000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+SPIT01,40,6b,04C,0,120,0,2500,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+SVII17,41,10a,02,0,30,0,10000,Durban,KZN/DBN,Trading Account,Account Status
+SWET03,32,7b,05,0,120,0,999999,Gauteng N - Randburg/Rivonia,Gauteng North - Randburg / Rivonia,Trading Account,Account Status
+TMUH01,39,6a,04C,0,120,0,5000,East Cape,Eastern Cape,Trading Account,Account Status
+TOPI49,32,7b,05,0,120,0,1000,Gauteng N - Randburg/Rivonia,Gauteng North - Randburg / Rivonia,Trading Account,Account Status
+TOPO01,40,6b,04C,0,120,0,5000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+UBAE01,40,6b,04C,0,120,0,5000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+UMOT01,25,11b,06C,0,120,0,5000,Ermelo / Piet Retief,Ermelo / Piet Retief,Trading Account,Account Status
+UNET01,30,7a,05,0,120,0,15000,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+VDII01,30,7a,05,0,120,0,2000,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+VLEI02,30,7a,05C,0,120,0,5000,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+VRIO01,32,7b,05C,0,120,0,3000,Gauteng N - Randburg/Rivonia,Gauteng North - Randburg / Rivonia,Trading Account,Account Status
+WCOA01,40,6b,04C,0,120,0,3000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+WHOE01,40,6b,04C,0,120,0,5000,West Cape,Western Cape / Cape Town,Trading Account,Account Status
+XFOY01,30,7a,05,0,120,0,999999,Gauteng N - Sandton,Gauteng North - Sandton,Trading Account,Account Status
+YREN03,33,1d,03C,0,30,0,2000,Pretoria,Pretoria,Trading Account,Account Status
+ZDEI01,32,7b,05,0,120,0,10000,Gauteng N - Randburg/Rivonia,Gauteng North - Randburg / Rivonia,Trading Account,Account Status

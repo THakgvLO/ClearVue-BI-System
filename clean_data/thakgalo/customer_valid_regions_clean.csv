@@ -1,0 +1,1271 @@
+CUSTOMER_NUMBER,CCAT_CODE,REGION_CODE,REP_CODE,SETTLE_TERMS,NORMAL_PAYTERMS,DISCOUNT,CREDIT_LIMIT,REGION_DESC
+AAMI01,41,10a,02,0,120,0,2000,Durban
+ABHG01,49,10a,02,0,120,0,1500,Durban
+ABHG02,39,6a,04,0,120,0,2500,East Cape
+ABHN01,49,10a,02,0,120,0,1500,Durban
+ABHN02,41,10a,02,0,30,0,500,Durban
+ABRC01,31,8a,06,0,120,0,3000,Gauteng E - Alberton/Benoni/Kempton
+ABRD01,39,6a,04,0,120,0,2000,East Cape
+ACHB01,4,1b,03,0,120,0,1000,Pretoria North/South/West
+ACHP01,14,3b,06,0,120,0,12000,Johannesburg CBD
+ACHR02,4,1b,03,0,120,0,999999,Pretoria North/South/West
+ACHV01,43,3a,05,0,120,0,2500,Soweto/Lenasia
+ACLS02,39,6a,02,0,30,0,10000,East Cape
+ACLS03,37,11a,03,0,60,0,999999,Free State / Lesotho
+ADIM01,45,2a,05,0,120,0,2000,Vaal Triangle
+AFRM01,30,7a,05,0,120,0,15000,Gauteng N - Sandton
+AFRM02,30,7a,05,0,120,0,7500,Gauteng N - Sandton
+AFRM05,2,1a,03,0,120,0,10000,Pretoria Central
+AFRM07,36,7c,05,0,120,0,3000,Gauteng N - Eastgate/Norwood/Midrand
+AFRM08,43,3a,05,0,120,0,1500,Soweto/Lenasia
+AFRM10,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+AFRN05,36,7c,05C,0,120,0,10000,Gauteng N - Eastgate/Norwood/Midrand
+AGRY01,46,2b,05,0,120,0,5000,Krugersdorp / Sun City
+AGYN01,49,10a,02,0,120,0,2500,Durban
+AHEL01,33,1d,03,0,120,0,4000,Pretoria
+AHET01,2,1a,03,0,120,0,5000,Pretoria Central
+AICR02,31,8a,06,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+AICR04,46,2b,03,0,120,0,500,Krugersdorp / Sun City
+AICR05,31,8a,06,0,120,0,999999,Gauteng E - Alberton/Benoni/Kempton
+AICR07,41,10a,02,0,120,0,3000,Durban
+AICR08,46,2b,03,0,30,0,5000,Krugersdorp / Sun City
+AICR09,31,8a,ZZZ,0,120,0,6000,Gauteng E - Alberton/Benoni/Kempton
+AJEN01,42,10b,02,0,120,0,2000,Midlands
+AKER01,36,7c,05,0,120,0,3000,Gauteng N - Eastgate/Norwood/Midrand
+AKGK01,31,8a,06,0,120,0,3000,Gauteng E - Alberton/Benoni/Kempton
+AKHN01,41,10a,02,0,120,0,20000,Durban
+AKHN02,41,10a,02,0,120,0,3000,Durban
+AKHN03,43,3a,05,0,120,0,5000,Soweto/Lenasia
+AKHN04,40,6b,04,0,120,0,2000,West Cape
+AKHN05,49,10a,02,0,120,0,2000,Durban
+AKHN07,41,10a,02,0,120,0,999999,Durban
+AKHN08,4,1b,03,0,120,0,3000,Pretoria North/South/West
+AKWN01,31,8a,06,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton
+AMAK01,43,3a,06,0,60,0,999999,Soweto/Lenasia
+AMAR01,40,6b,04,0,120,0,4000,West Cape
+AMAR02,40,6b,04,0,120,0,5000,West Cape
+AMKN02,34,1e,03,0,120,0,2000,Witbank/Middelburg
+AMMB01,19,4b,06,0,120,0,15000,Nelspruit / Tzaneen
+AMOG01,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+AMOL01,46,2b,03,0,120,0,15000,Krugersdorp / Sun City
+ANKD01,4,1b,03,0,120,0,5000,Pretoria North/South/West
+ANKM01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+ANYT01,41,10a,02,0,30,0,4000,Durban
+APHT01,19,4b,03,0,60,0,999999,Nelspruit / Tzaneen
+APLZ01,31,8a,06,0,30,0,18000,Gauteng E - Alberton/Benoni/Kempton
+AQWQ01,42,10b,02,0,120,0,12000,Midlands
+AREL01,32,7b,05C,0,120,0,15000,Gauteng N - Randburg/Rivonia
+AREL02,40,6b,04,0,120,0,15000,West Cape
+AREL04,32,7b,05,0,120,0,10000,Gauteng N - Randburg/Rivonia
+AREL05,36,7c,05,0,120,0,10000,Gauteng N - Eastgate/Norwood/Midrand
+ASEP01,40,6b,04,0,120,0,2000,West Cape
+ASHD02,40,6b,04,0,30,0,2500,West Cape
+ASHE01,29,5a,01EXP,0,120,0,5000,Botswana and Exports
+ASHI01,46,2b,03,0,120,0,2000,Krugersdorp / Sun City
+ASHI02,4,1b,03,0,30,0,2500,Pretoria North/South/West
+ASHP01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+ASHR02,49,10a,02,0,120,0,1000,Durban
+ASHR03,14,3b,06,0,120,0,2000,Johannesburg CBD
+ASIN01,41,10a,02,0,120,0,1500,Durban
+ASLB01,39,6a,04,0,120,0,4000,East Cape
+ASLB02,39,6a,04,0,120,0,2500,East Cape
+ASLB03,40,6b,04,0,120,0,1500,West Cape
+ASLB04,39,6a,04,0,120,0,4000,East Cape
+ASLB05,39,6a,04,0,120,0,5000,East Cape
+ASTL01,40,6b,04C,0,120,0,2000,West Cape
+ASTN01,30,7a,05,0,120,0,7500,Gauteng N - Sandton
+ASTN04,45,2a,06,0,120,0,7500,Vaal Triangle
+ASWN02,18,4a,06,0,120,0,7500,Pietersburg / Potgietersrus
+ASWZ01,25,11b,06,0,120,0,4000,Ermelo / Piet Retief
+ATEM01,37,11a,03,0,120,0,30000,Free State / Lesotho
+ATHM01,49,10a,02,0,120,0,1000,Durban
+ATLK01,25,11b,06,0,120,0,3000,Ermelo / Piet Retief
+ATLL01,4,1b,03,0,120,0,1000,Pretoria North/South/West
+ATSG01,33,1d,03,0,120,0,2000,Pretoria
+ATYL03,40,6b,04,0,30,0,5000,West Cape
+AVAL01,45,2a,06,0,120,0,500,Vaal Triangle
+AVAL02,45,2a,06,0,120,0,2000,Vaal Triangle
+AVAL04,45,2a,06,0,120,0,2000,Vaal Triangle
+BABR01,36,7c,05,0,60,0,6000,Gauteng N - Eastgate/Norwood/Midrand
+BBII01,47,2c,06,0,120,0,999999,Potch / Krugersdorp / Kuruman
+BCAI01,33,1d,03,0,120,0,999999,Pretoria
+BDEB01,41,10a,02,0,120,0,3000,Durban
+BDER01,34,1e,03,0,120,0,20000,Witbank/Middelburg
+BDER03,34,1e,03,0,120,0,999999,Witbank/Middelburg
+BDOS01,43,3a,06,0,120,0,4500,Soweto/Lenasia
+BEYE02,19,4b,03,0,120,0,7500,Nelspruit / Tzaneen
+BGIS01,41,10a,02,0,120,0,500,Durban
+BHAE01,19,4b,03,0,120,0,10000,Nelspruit / Tzaneen
+BKUJ01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+BLAU01,47,2c,06,0,120,0,3500,Potch / Krugersdorp / Kuruman
+BLAU02,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+BMAI01,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus
+BMAU01,37,11a,03,0,120,0,5000,Free State / Lesotho
+BMOI01,32,7b,05,0,120,0,1000,Gauteng N - Randburg/Rivonia
+BRAA01,42,10b,02,0,120,0,5000,Midlands
+BRAO01,18,4a,06,0,120,0,30000,Pietersburg / Potgietersrus
+BROA01,40,6b,04C,0,120,0,5000,West Cape
+BROI01,32,7b,05,0,120,0,4000,Gauteng N - Randburg/Rivonia
+BROI02,14,3b,06,0,120,0,7500,Johannesburg CBD
+BSEA01,45,2a,06,0,120,0,2500,Vaal Triangle
+BSUR01,41,10a,02,0,120,0,999999,Durban
+BURA01,32,7b,05C,0,30,0,1000,Gauteng N - Randburg/Rivonia
+BZUA01,2,1a,03,0,120,0,999999,Pretoria Central
+CADO01,46,2b,05,0,120,0,10000,Krugersdorp / Sun City
+CADO02,32,7b,05,0,120,0,10000,Gauteng N - Randburg/Rivonia
+CBFB01,14,3b,06,0,120,0,10000,Johannesburg CBD
+CBUH01,40,6b,04C,0,120,0,4000,West Cape
+CBUH02,40,6b,04C,0,120,0,4000,West Cape
+CBUH04,40,6b,04C,0,120,0,999999,West Cape
+CDIH01,43,3a,06,0,120,0,1000,Soweto/Lenasia
+CEXL01,14,3b,06,0,120,0,999999,Johannesburg CBD
+CFIK01,40,6b,04,0,120,0,2000,West Cape
+CJAO01,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+CKDO01,36,7c,05,0,120,0,10000,Gauteng N - Eastgate/Norwood/Midrand
+CKOK02,18,4a,07C,0,120,0,7500,Pietersburg / Potgietersrus
+CLOH01,16,1c,03,0,120,0,3000,Pretoria East
+CMCU01,16,1c,03,0,120,0,4000,Pretoria East
+COCH06,40,6b,04,0,120,0,50000,West Cape
+COCU01,32,7b,05,0,30,0,5000,Gauteng N - Randburg/Rivonia
+CRIH01,47,2c,03,0,120,0,4000,Potch / Krugersdorp / Kuruman
+CROO01,29,5a,01EXP,0,120,0,500,Botswana and Exports
+CSAK01,32,7b,05,0,120,0,3000,Gauteng N - Randburg/Rivonia
+CTEH01,14,3b,06,0,120,0,3000,Johannesburg CBD
+CTIK01,45,2a,06,0,30,0,2000,Vaal Triangle
+CVIT01,49,10a,02,0,120,0,2500,Durban
+CWEK01,40,6b,04,0,120,0,5000,West Cape
+DANE02,49,10a,02,0,120,0,3000,Durban
+DBID01,39,6a,04,0,120,0,2500,East Cape
+DBOE01,43,3a,05,0,120,0,20000,Soweto/Lenasia
+DBUG01,39,6a,04,0,120,5,2500,East Cape
+DBUG03,37,11a,03,0,30,0,999999,Free State / Lesotho
+DELO01,4,1b,03,0,120,0,2500,Pretoria North/South/West
+DHYR01,30,7a,05C,0,120,0,999999,Gauteng N - Sandton
+DINE01,39,6a,02,0,120,0,3000,East Cape
+DINE02,32,7b,05,0,120,0,1500,Gauteng N - Randburg/Rivonia
+DINU02,14,3b,06,0,120,0,999999,Johannesburg CBD
+DJAA02,43,3a,07,0,30,0,2500,Soweto/Lenasia
+DJAE02,41,10a,02,0,30,0,1000,Durban
+DJUE01,31,8a,06,0,120,0,20000,Gauteng E - Alberton/Benoni/Kempton
+DKOA01,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+DLEW01,37,11a,03,0,120,0,3000,Free State / Lesotho
+DLEW02,2,1a,03,0,120,0,8000,Pretoria Central
+DLEW03,34,1e,03,0,60,0,999999,Witbank/Middelburg
+DMAH01,43,3a,06,9,120,0,5000,Soweto/Lenasia
+DMAI01,43,3a,06,0,120,0,1500,Soweto/Lenasia
+DMAI02,2,1a,03,0,60,0,999999,Pretoria Central
+DMAZ01,18,4a,06,0,120,0,1000,Pietersburg / Potgietersrus
+DMCO01,47,2c,06,0,120,0,10000,Potch / Krugersdorp / Kuruman
+DMEF01,2,1a,03,0,120,0,5000,Pretoria Central
+DMEI01,36,7c,05C,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand
+DMEI03,2,1a,03,0,120,0,1500,Pretoria Central
+DMEI07,2,1a,03,0,120,0,2000,Pretoria Central
+DMEI11,37,11a,03,0,120,0,5000,Free State / Lesotho
+DMEI13,29,5a,06,0,120,0,999999,Botswana and Exports
+DMIR01,36,7c,05,0,120,0,0,Gauteng N - Eastgate/Norwood/Midrand
+DMOI01,43,3a,06,0,120,0,0,Soweto/Lenasia
+DMOI02,19,4b,03,0,120,0,3000,Nelspruit / Tzaneen
+DMOI03,46,2b,03,0,120,0,2500,Krugersdorp / Sun City
+DMOI04,30,7a,05,0,60,0,999999,Gauteng N - Sandton
+DMUA01,19,4b,03,0,120,0,1500,Nelspruit / Tzaneen
+DOUS01,39,6a,04,0,120,0,1000,East Cape
+DPAA02,49,10a,02,0,120,0,1500,Durban
+DRAU01,39,6a,02,0,120,0,20000,East Cape
+DRED01,40,6b,04,0,120,0,3000,West Cape
+DRED02,41,10a,02,0,120,0,3000,Durban
+DREE01,40,6b,04,0,120,0,1500,West Cape
+DSAI01,16,1c,03,0,120,0,2000,Pretoria East
+DSEI01,43,3a,06,0,30,0,3000,Soweto/Lenasia
+DSIN01,36,7c,05,0,120,0,1000,Gauteng N - Eastgate/Norwood/Midrand
+DSWE01,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+DVIA01,47,2c,06C,0,120,0,1000,Potch / Krugersdorp / Kuruman
+DWAE03,25,11b,06,0,120,0,2000,Ermelo / Piet Retief
+DWAE04,14,3b,06,0,120,0,6000,Johannesburg CBD
+EACO01,29,5a,06,0,30,0,999999,Botswana and Exports
+EALX01,39,6a,02,0,120,0,20000,East Cape
+EALX03,36,7c,05C,0,120,0,0,Gauteng N - Eastgate/Norwood/Midrand
+EAME01,42,10b,02,0,120,0,1000,Midlands
+EBHK01,2,1a,03,0,120,0,999999,Pretoria Central
+EBHK02,4,1b,03,0,120,0,5000,Pretoria North/South/West
+EBRE02,2,1a,03,0,120,0,2000,Pretoria Central
+ECHT02,49,10a,02,0,120,0,500,Durban
+ECHT03,41,10a,02,0,120,0,1000,Durban
+ECHT04,49,10a,02,0,120,0,2000,Durban
+ECHT05,39,6a,02,0,120,0,4000,East Cape
+ECHT06,40,6b,04,0,120,0,3000,West Cape
+ECLA01,41,10a,02,0,120,0,10000,Durban
+ECLA02,40,6b,04,0,120,0,1000,West Cape
+ECLA04,40,6b,04,0,120,0,5000,West Cape
+ECLA05,41,10a,02,0,120,0,2000,Durban
+ECOT02,19,4b,03,0,120,0,1500,Nelspruit / Tzaneen
+ECOT04,47,2c,06C,0,120,0,5000,Potch / Krugersdorp / Kuruman
+ECRS01,32,7b,05,0,120,0,1500,Gauteng N - Randburg/Rivonia
+EEVR02,45,2a,06,0,120,0,3500,Vaal Triangle
+EEYB01,46,2b,07C,0,120,0,7500,Krugersdorp / Sun City
+EEYB02,33,1d,03,0,60,0,999999,Pretoria
+EEYC02,29,5a,06,0,120,0,5000,Botswana and Exports
+EEYC04,41,10a,02,0,120,0,5000,Durban
+EEYD02,40,6b,04,0,120,0,1500,West Cape
+EEYD04,32,7b,05,0,120,0,7500,Gauteng N - Randburg/Rivonia
+EEYE01,31,8a,06,0,120,0,500,Gauteng E - Alberton/Benoni/Kempton
+EEYE02,29,5a,06,0,120,0,24500,Botswana and Exports
+EEYL01,42,10b,02,0,120,0,5000,Midlands
+EEYL03,14,3b,06,0,120,0,3000,Johannesburg CBD
+EEYL06,31,8a,06,0,60,0,999999,Gauteng E - Alberton/Benoni/Kempton
+EEYP02,4,1b,03,0,120,0,200000,Pretoria North/South/West
+EEYS01,49,10a,02,0,120,0,500,Durban
+EEYS02,40,6b,04,0,120,0,2000,West Cape
+EEYS03,32,7b,05,0,120,0,3000,Gauteng N - Randburg/Rivonia
+EEYS05,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+EEYS10,42,10b,02,0,120,0,4000,Midlands
+EEYS14,36,7c,05C,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand
+EEYS15,25,11b,06,0,120,0,999999,Ermelo / Piet Retief
+EEYT02,32,7b,05,0,120,0,1000,Gauteng N - Randburg/Rivonia
+EEYT04,39,6a,ZZZ5,0,120,0,3000,East Cape
+EEYT05,39,6a,ZZZ5,0,120,0,3000,East Cape
+EEYT06,30,7a,05,0,60,0,999999,Gauteng N - Sandton
+EEYW02,19,4b,03,0,120,0,5000,Nelspruit / Tzaneen
+EFRE01,39,6a,04,0,120,0,2000,East Cape
+EGRE02,25,11b,06,0,120,0,750,Ermelo / Piet Retief
+EGRW01,40,6b,04,0,120,0,2000,West Cape
+EIDA02,41,10a,02,0,120,0,1000,Durban
+EIDA03,30,7a,05,0,60,0,999999,Gauteng N - Sandton
+EKET01,36,7c,05,0,120,0,1000,Gauteng N - Eastgate/Norwood/Midrand
+EMER01,41,10a,02,0,120,0,1500,Durban
+EMYY01,30,7a,05,0,120,0,999999,Gauteng N - Sandton
+ENIM01,18,4a,06,0,120,0,15000,Pietersburg / Potgietersrus
+EOBM01,39,6a,04,0,120,0,2500,East Cape
+EPER01,39,6a,02,0,120,0,20000,East Cape
+EPER04,30,7a,05C,0,120,0,15000,Gauteng N - Sandton
+EPHE01,4,1b,03,0,120,0,2500,Pretoria North/South/West
+EPIK01,33,1d,03,0,120,0,1000,Pretoria
+EPIP01,49,10a,02,0,120,0,500,Durban
+EPIT02,18,4a,06,3,120,0,12500,Pietersburg / Potgietersrus
+EPRC01,41,10a,02,0,120,0,4000,Durban
+EPRT01,4,1b,03,0,120,0,5000,Pretoria North/South/West
+EPRT02,42,10b,02,0,120,0,5000,Midlands
+EPRT04,45,2a,06,0,120,0,3000,Vaal Triangle
+EPRT05,31,8a,06C,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton
+EQUE01,36,7c,05,0,120,0,3000,Gauteng N - Eastgate/Norwood/Midrand
+ERED01,4,1b,03,0,120,0,1000,Pretoria North/South/West
+ERED02,41,10a,02,0,120,0,1000,Durban
+ERED03,41,10a,02,0,120,0,5000,Durban
+EROT01,34,1e,03,0,120,0,20000,Witbank/Middelburg
+ESEB02,40,6b,04,0,120,0,3000,West Cape
+ESED01,41,10a,02,0,120,0,10000,Durban
+ESED02,42,10b,02,0,120,0,4000,Midlands
+ESED04,42,10b,02,0,120,0,10000,Midlands
+ESET01,41,10a,02,0,120,0,2000,Durban
+ESHL01,49,10a,02,0,120,0,2000,Durban
+ESHP01,25,11b,06,0,120,0,15000,Ermelo / Piet Retief
+ESHP02,16,1c,03,0,120,0,5000,Pretoria East
+ESHR01,31,8a,06,0,120,0,30000,Gauteng E - Alberton/Benoni/Kempton
+ESHR02,33,1d,03,0,120,0,1000,Pretoria
+ESHR03,14,3b,06,0,120,0,3000,Johannesburg CBD
+ESHR05,14,3b,06C,0,120,0,15000,Johannesburg CBD
+ESHR07,30,7a,05C,0,120,0,5000,Gauteng N - Sandton
+ESPC02,37,11a,03,0,120,0,7500,Free State / Lesotho
+ESPC03,40,6b,04,0,120,0,15000,West Cape
+ESPC06,33,1d,03,0,120,0,4000,Pretoria
+ESPC09,40,6b,04,0,120,0,4000,West Cape
+ESPC10,41,10a,02,0,120,0,1000,Durban
+ESPC21,33,1d,03,0,120,0,7500,Pretoria
+ESPC29,39,6a,02,0,120,0,7500,East Cape
+ESPC31,46,2b,05,0,120,0,7500,Krugersdorp / Sun City
+ESPC33,37,11a,03,0,120,0,7500,Free State / Lesotho
+ESPC36,18,4a,06,0,120,0,7500,Pietersburg / Potgietersrus
+ESPC39,37,11a,03,0,120,0,7500,Free State / Lesotho
+ESPC40,46,2b,03,0,120,0,7500,Krugersdorp / Sun City
+ESPC43,19,4b,03,0,120,0,999999,Nelspruit / Tzaneen
+ESPC50,4,1b,03,0,120,0,7500,Pretoria North/South/West
+ESPC51,30,7a,05,0,120,0,4000,Gauteng N - Sandton
+ESPC53,46,2b,05,0,120,0,7500,Krugersdorp / Sun City
+ESPC54,18,4a,06,0,120,0,7500,Pietersburg / Potgietersrus
+ESPC58,40,6b,04,0,120,0,5000,West Cape
+ESPC59,40,6b,04,0,120,0,15000,West Cape
+ESPC61,32,7b,05,0,120,0,15000,Gauteng N - Randburg/Rivonia
+ESPC62,33,1d,03,0,120,0,15000,Pretoria
+ESPC63,32,7b,03,0,120,0,20000,Gauteng N - Randburg/Rivonia
+ESPC64,39,6a,02,0,120,0,5000,East Cape
+ESPC65,39,6a,02,0,120,0,5000,East Cape
+ESPC66,39,6a,04,0,120,0,5000,East Cape
+ESPC67,40,6b,04,0,120,0,0,West Cape
+ESPC68,40,6b,04C,0,120,0,15000,West Cape
+ESPC69,45,2a,06,0,120,0,100000,Vaal Triangle
+ESPC70,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+ESPC71,40,6b,04C,0,120,0,3000,West Cape
+ESPC76,36,7c,05,0,120,0,15000,Gauteng N - Eastgate/Norwood/Midrand
+ESPC78,33,1d,03,0,120,0,3000,Pretoria
+ESPC83,37,11a,03,0,120,0,7500,Free State / Lesotho
+ESPC88,25,11b,05,0,120,0,7500,Ermelo / Piet Retief
+ESPC89,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus
+ESPC90,39,6a,02,0,120,0,999999,East Cape
+ESPC91,40,6b,04,0,30,0,999999,West Cape
+ESPC93,36,7c,05,0,120,0,999999,Gauteng N - Eastgate/Norwood/Midrand
+ESPC95,43,3a,06,0,120,0,10000,Soweto/Lenasia
+ESPC98,46,2b,05,0,120,0,7500,Krugersdorp / Sun City
+ESPC99,19,4b,03,0,120,0,15000,Nelspruit / Tzaneen
+ESTD01,40,6b,04,0,120,0,5000,West Cape
+ESTE01,31,8a,06C,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+ESTH01,40,6b,04,0,120,0,500,West Cape
+ESTI02,14,3b,06,0,120,0,0,Johannesburg CBD
+ESTL02,40,6b,04,0,120,0,10000,West Cape
+ESTP01,40,6b,04C,0,120,0,7500,West Cape
+ETHB01,14,3b,06,0,120,0,2500,Johannesburg CBD
+ETHE03,41,10a,02,0,120,0,4000,Durban
+ETHL02,40,6b,04,0,30,0,999999,West Cape
+ETHM02,32,7b,05JAS,0,120,0,5000,Gauteng N - Randburg/Rivonia
+ETRA01,41,10a,02,0,120,0,2000,Durban
+ETRN01,14,3b,06,0,120,0,999999,Johannesburg CBD
+EVES01,41,10a,02,0,120,0,2000,Durban
+EVRY01,32,7b,05,0,120,0,999999,Gauteng N - Randburg/Rivonia
+EZEN01,43,3a,06,0,120,0,3000,Soweto/Lenasia
+FGEF01,32,7b,07,0,120,0,2000,Gauteng N - Randburg/Rivonia
+FMAO01,34,1e,03,0,60,0,999999,Witbank/Middelburg
+FMOF01,41,10a,02C,0,120,0,999999,Durban
+FMOF02,41,10a,02,0,120,0,5000,Durban
+FMOF03,41,10a,02,0,120,0,20000,Durban
+FMOF05,41,10a,02,0,120,0,3000,Durban
+FMOF07,41,10a,02,0,120,0,999999,Durban
+FMOF08,41,10a,02,0,120,0,999999,Durban
+FMOF09,49,10a,02,0,60,0,999999,Durban
+FMOF10,41,10a,02,0,60,0,999999,Durban
+FROF01,30,7a,01,0,120,0,5000,Gauteng N - Sandton
+GAUU01,49,10a,02,0,120,0,3000,Durban
+GBEG04,41,10a,02,0,120,0,999999,Durban
+GBIF01,31,8a,06,8,30,18,100000,Gauteng E - Alberton/Benoni/Kempton
+GDEO01,40,6b,04,0,120,0,1000,West Cape
+GECL01,17,2c,07,0,120,0,1000,Potch / Krugersdorp / Kuruman
+GEDE01,40,6b,04C,0,120,0,4000,West Cape
+GEGM01,37,11a,03,0,120,0,5000,Free State / Lesotho
+GELI01,49,10a,02,0,120,0,2000,Durban
+GENC01,39,6a,02,0,120,0,999999,East Cape
+GENE02,37,11a,03,0,120,0,4000,Free State / Lesotho
+GGIA01,41,10a,02,0,120,0,5000,Durban
+GGOA01,41,10a,02,0,120,0,1000,Durban
+GHIH01,31,8a,06,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+GLEO01,41,10a,02,0,120,0,999999,Durban
+GLIH01,34,1e,03,0,120,0,4000,Witbank/Middelburg
+GMAA02,25,11b,02,0,120,0,999999,Ermelo / Piet Retief
+GMEA02,32,7b,05C,0,120,0,5000,Gauteng N - Randburg/Rivonia
+GMOA01,4,1b,03,0,120,0,4000,Pretoria North/South/West
+GNUE01,37,11a,03,0,120,0,2000,Free State / Lesotho
+GSAA01,31,8a,06,0,120,0,100000,Gauteng E - Alberton/Benoni/Kempton
+GSEA01,36,7c,05,0,120,0,30000,Gauteng N - Eastgate/Norwood/Midrand
+GSEW01,18,4a,07,0,120,0,1500,Pietersburg / Potgietersrus
+GSIH02,29,5a,06,0,120,0,999999,Botswana and Exports
+GSIN01,41,10a,02,0,120,0,3000,Durban
+GWAN01,40,6b,04,0,120,0,5000,West Cape
+HACA01,49,10a,02,0,120,0,500,Durban
+HASL01,29,5a,01EXP,7,120,0,100000,Botswana and Exports
+HATL01,40,6b,04,0,120,0,3000,West Cape
+HATL02,41,10a,02,0,120,0,2000,Durban
+HISO01,41,10a,02,0,120,0,15000,Durban
+HKAM02,40,6b,04,0,120,0,7500,West Cape
+HLYN01,40,6b,04,0,120,0,3000,West Cape
+HLYN02,40,6b,04,0,120,0,3000,West Cape
+HMAA01,41,10a,02,0,120,0,1000,Durban
+HMAA03,41,10a,02,0,120,0,999999,Durban
+HMAL02,18,4a,06,0,120,0,2000,Pietersburg / Potgietersrus
+HMAO01,41,10a,02,0,120,0,10000,Durban
+HMAO02,49,10a,02,0,120,0,3000,Durban
+HMAO04,41,10a,02,0,120,0,5000,Durban
+HMAO05,46,2b,05,0,120,0,2000,Krugersdorp / Sun City
+HMOA02,49,10a,02,0,120,0,3000,Durban
+HMOA03,42,10b,02,0,120,0,4000,Midlands
+HMOA04,42,10b,02,0,120,0,6000,Midlands
+HMOL01,25,11b,06,0,120,0,3000,Ermelo / Piet Retief
+HMOL02,45,2a,06,0,120,0,5000,Vaal Triangle
+HMOL03,25,11b,06,0,120,0,1500,Ermelo / Piet Retief
+HMOL04,4,1b,03,0,120,0,15500,Pretoria North/South/West
+HMOL05,18,4a,06,0,120,0,1500,Pietersburg / Potgietersrus
+HMOL07,34,1e,03,0,60,0,999999,Witbank/Middelburg
+HMPA01,18,4a,06,0,120,0,1500,Pietersburg / Potgietersrus
+HMPU01,43,3a,06,0,120,0,2000,Soweto/Lenasia
+HRAM01,41,10a,02,0,120,0,7500,Durban
+HROL01,29,5a,01EXP,0,120,0,1000,Botswana and Exports
+HSCA01,40,6b,04,0,120,0,3000,West Cape
+HSCI02,14,3b,06,0,120,0,7500,Johannesburg CBD
+HSCL01,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+HSCM01,40,6b,04,0,120,0,500,West Cape
+HSCN01,30,7a,05,0,120,0,20000,Gauteng N - Sandton
+HSCN02,40,6b,04C,0,120,0,10000,West Cape
+HSCO01,45,2a,06,0,120,0,5000,Vaal Triangle
+HSCO02,45,2a,06C,0,120,0,5000,Vaal Triangle
+HSCO05,46,2b,07,0,120,0,5000,Krugersdorp / Sun City
+HSCO06,25,11b,06,0,120,0,2500,Ermelo / Piet Retief
+HTSE01,33,1d,03C,0,120,0,3000,Pretoria
+HTSI01,34,1e,03,0,120,0,3500,Witbank/Middelburg
+HUML01,41,10a,02C,0,120,0,7500,Durban
+HVAE01,41,10a,02,0,120,0,2000,Durban
+HWAL01,33,1d,03C,0,120,0,7500,Pretoria
+HWAL02,37,11a,03,0,120,0,30000,Free State / Lesotho
+HZAE01,31,8a,06,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+IALW01,39,6a,02,0,120,0,2000,East Cape
+IBHK01,25,11b,02,0,120,0,5000,Ermelo / Piet Retief
+IBRN02,34,1e,03,0,120,0,2000,Witbank/Middelburg
+IDZN01,41,10a,02,0,30,0,5000,Durban
+IERN03,30,7a,05C,0,120,0,15000,Gauteng N - Sandton
+IFAR01,40,6b,04,0,120,0,1000,West Cape
+IFLG01,31,8a,06,0,120,0,3500,Gauteng E - Alberton/Benoni/Kempton
+IFRE02,40,6b,04,0,120,0,5000,West Cape
+IGAL01,19,4b,06,0,120,0,2000,Nelspruit / Tzaneen
+IGRM01,40,6b,04,0,120,0,1000,West Cape
+IHAN01,40,6b,04,0,120,0,2500,West Cape
+IHEN01,33,1d,03C,0,120,0,6000,Pretoria
+IHEN02,33,1d,03,0,120,0,1500,Pretoria
+IHEN03,4,1b,03,0,120,0,1500,Pretoria North/South/West
+IHEN04,33,1d,03,0,120,0,1500,Pretoria
+IHEN05,2,1a,03,0,120,0,999999,Pretoria Central
+IIFL01,2,1a,03,0,120,0,999999,Pretoria Central
+IIJE01,40,6b,04,0,120,0,4000,West Cape
+IISS01,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+IJON02,40,6b,04,0,120,0,5000,West Cape
+IJON04,46,2b,05,0,120,0,2000,Krugersdorp / Sun City
+IKNG01,36,7c,05,0,120,0,15000,Gauteng N - Eastgate/Norwood/Midrand
+IKRE03,39,6a,02,0,120,5,7500,East Cape
+IKRE05,18,4a,06,0,120,0,5000,Pietersburg / Potgietersrus
+IKRE06,39,6a,02,0,120,5,2000,East Cape
+IKRZ01,33,1d,03,0,120,0,10000,Pretoria
+IMEE01,46,2b,03,0,120,0,1500,Krugersdorp / Sun City
+IMER03,2,1a,03C,0,120,0,2000,Pretoria Central
+IMGL01,39,6a,02,0,60,0,999999,East Cape
+IMUR01,39,6a,04,0,120,0,3000,East Cape
+INAD01,40,6b,04,0,120,0,100000,West Cape
+INAD02,40,6b,04C,0,120,0,2000,West Cape
+INAD04,39,6a,04C,0,120,0,5000,East Cape
+INAD06,49,10a,02,0,120,0,1000,Durban
+INAD07,49,10a,02,0,120,0,1500,Durban
+INAD10,41,10a,02,0,120,0,500,Durban
+INAD17,31,8a,05,0,120,0,999999,Gauteng E - Alberton/Benoni/Kempton
+INJK01,39,6a,02,0,120,0,999999,East Cape
+IOLV01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+IONO01,16,1c,03,0,120,0,2500,Pretoria East
+IPHL02,40,6b,04,0,120,0,2000,West Cape
+IPHL03,40,6b,04,0,120,0,3000,West Cape
+IREC01,49,10a,02,0,120,0,3000,Durban
+IRED01,40,6b,04,0,120,0,1500,West Cape
+ISAL01,39,6a,03,0,30,0,999999,East Cape
+ISAN01,39,6a,04,0,120,0,3000,East Cape
+ISAV01,31,8a,06,0,120,0,999999,Gauteng E - Alberton/Benoni/Kempton
+ISHN01,19,4b,03,0,120,0,3000,Nelspruit / Tzaneen
+ISMT01,25,11b,05,0,120,0,3000,Ermelo / Piet Retief
+ISMT04,40,6b,04,0,120,0,2000,West Cape
+ISMT05,49,10a,02,0,120,0,1500,Durban
+ISMT06,40,6b,04,0,120,0,3000,West Cape
+ISMT07,40,6b,04,0,120,0,2000,West Cape
+ISMT08,37,11a,03,0,120,0,7500,Free State / Lesotho
+ISPL02,4,1b,03C,0,120,0,7500,Pretoria North/South/West
+ISTM01,29,5a,01EXP,0,120,0,2500,Botswana and Exports
+ITHV02,18,4a,06,0,30,0,3000,Pietersburg / Potgietersrus
+ITJB01,18,4a,06,0,120,0,1500,Pietersburg / Potgietersrus
+ITRC01,37,11a,03,0,120,0,10000,Free State / Lesotho
+ITRM01,40,6b,04,0,120,0,3000,West Cape
+IUNT01,32,7b,05,0,120,0,999999,Gauteng N - Randburg/Rivonia
+IWET01,40,6b,04,0,120,58,0,West Cape
+IWET02,41,10a,02,0,30,58,999999,Durban
+IZES01,32,7b,05,0,120,0,5000,Gauteng N - Randburg/Rivonia
+IZHV01,37,11a,03,0,120,0,3000,Free State / Lesotho
+JARU01,41,10a,02,0,120,0,2000,Durban
+JDEA02,4,1b,03,0,120,0,2000,Pretoria North/South/West
+JDEO01,16,1c,03,0,120,0,3500,Pretoria East
+JKAE01,41,10a,02,0,120,0,15000,Durban
+JRAU01,49,10a,02,0,120,0,1000,Durban
+JSEA01,39,6a,02,0,120,0,10000,East Cape
+JSUE01,45,2a,06,0,120,0,1500,Vaal Triangle
+JSUE02,45,2a,06,0,30,0,2000,Vaal Triangle
+JSUE03,4,1b,03,0,120,0,999999,Pretoria North/South/West
+JWIN01,18,4a,06,0,120,0,15000,Pietersburg / Potgietersrus
+KACE02,32,7b,07,0,120,0,3000,Gauteng N - Randburg/Rivonia
+KATI02,32,7b,06,0,120,0,5000,Gauteng N - Randburg/Rivonia
+KBAE01,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus
+KBEK01,4,1b,03,0,120,0,5000,Pretoria North/South/West
+KDEL01,42,10b,02,0,120,0,7500,Midlands
+KDEO03,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+KDEO04,31,8a,02,0,120,5,10000,Gauteng E - Alberton/Benoni/Kempton
+KDEO05,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+KDIG01,19,4b,03,0,120,0,10000,Nelspruit / Tzaneen
+KDIG02,19,4b,03,0,120,0,15000,Nelspruit / Tzaneen
+KFAT01,31,8a,06,0,120,0,15000,Gauteng E - Alberton/Benoni/Kempton
+KFAT02,16,1c,03,0,120,0,10000,Pretoria East
+KJAE01,39,6a,02,0,120,0,999999,East Cape
+KKEA01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+KKEA02,37,11a,03,0,30,0,2500,Free State / Lesotho
+KKOS01,39,6a,02,0,120,0,5000,East Cape
+KLEH01,45,2a,06,0,120,0,2000,Vaal Triangle
+KMAA02,41,10a,02C,0,120,0,30000,Durban
+KMAA04,39,6a,04,0,120,0,5000,East Cape
+KMAG01,30,7a,05,0,120,0,500,Gauteng N - Sandton
+KMOO01,4,1b,03,0,120,0,4000,Pretoria North/South/West
+KMOO02,37,11a,03,0,120,0,26000,Free State / Lesotho
+KMOO03,25,11b,06,0,120,0,3000,Ermelo / Piet Retief
+KMOO04,46,2b,03,0,120,0,2000,Krugersdorp / Sun City
+KMOO05,2,1a,03,0,60,0,999999,Pretoria Central
+KMOW01,34,1e,03,0,60,0,999999,Witbank/Middelburg
+KOSO01,14,3b,06,4,30,0,30000,Johannesburg CBD
+KSAS01,16,1c,03,0,120,0,10000,Pretoria East
+KSAS02,16,1c,03,0,120,0,5000,Pretoria East
+KSUH01,43,3a,06,0,120,0,100,Soweto/Lenasia
+KTIL01,25,11b,06,0,120,0,999999,Ermelo / Piet Retief
+LALE01,39,6a,02,0,120,0,4000,East Cape
+LALI01,40,6b,04,0,120,0,3000,West Cape
+LALY01,41,10a,02,0,120,0,2000,Durban
+LBAF01,36,7c,05,0,120,0,12000,Gauteng N - Eastgate/Norwood/Midrand
+LBUB02,14,3b,06,0,120,0,15000,Johannesburg CBD
+LBUL01,49,10a,02,0,120,0,1000,Durban
+LCEL01,39,6a,04,0,60,0,999999,East Cape
+LCEL02,39,6a,04,0,60,0,999999,East Cape
+LEDE01,49,10a,02,0,120,0,0,Durban
+LEGI01,31,8a,06,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+LGIL01,30,7a,05,0,120,0,999999,Gauteng N - Sandton
+LGOD02,40,6b,04,0,120,0,3000,West Cape
+LGOD03,36,7c,05,0,120,0,7500,Gauteng N - Eastgate/Norwood/Midrand
+LGOD05,43,3a,06,0,60,0,999999,Soweto/Lenasia
+LGOD06,43,3a,06,0,60,0,999999,Soweto/Lenasia
+LGOD07,47,2c,06,0,60,0,999999,Potch / Krugersdorp / Kuruman
+LGOD08,47,2c,06,0,60,0,999999,Potch / Krugersdorp / Kuruman
+LGOD09,34,1e,03,0,60,0,999999,Witbank/Middelburg
+LGOD10,37,11a,06,0,60,0,999999,Free State / Lesotho
+LGOD11,37,11a,03,0,60,0,999999,Free State / Lesotho
+LGOD12,47,2c,06,0,60,0,999999,Potch / Krugersdorp / Kuruman
+LGOD13,37,11a,03,0,60,0,999999,Free State / Lesotho
+LGOD14,46,2b,06,0,60,0,999999,Krugersdorp / Sun City
+LHAL01,49,10a,06,0,120,0,500,Durban
+LHII01,36,7c,05,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand
+LHIL01,41,10a,02,0,120,0,500,Durban
+LHIL02,41,10a,02,0,120,0,2500,Durban
+LHIL05,14,3b,05,0,120,0,5000,Johannesburg CBD
+LHIL06,40,6b,04,0,120,0,0,West Cape
+LHOL01,40,6b,04C,0,120,0,1000,West Cape
+LHOM01,41,10a,02C,0,60,0,999999,Durban
+LHUB01,39,6a,04,0,120,0,2000,East Cape
+LKAI01,46,2b,05,0,120,0,5000,Krugersdorp / Sun City
+LKEM01,49,10a,02,0,120,0,3000,Durban
+LKIL01,30,7a,05,0,120,0,15000,Gauteng N - Sandton
+LLAO01,41,10a,02,0,120,0,2000,Durban
+LMAA02,18,4a,06,0,120,0,1000,Pietersburg / Potgietersrus
+LMAA03,2,1a,03,0,120,0,6000,Pretoria Central
+LMAE01,39,6a,04,0,120,0,5000,East Cape
+LMEL02,45,2a,06,0,120,0,30000,Vaal Triangle
+LMEL03,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL04,45,2a,06,0,120,0,15000,Vaal Triangle
+LMEL05,39,6a,03,0,120,0,15000,East Cape
+LMEL06,25,11b,02,0,120,0,15000,Ermelo / Piet Retief
+LMEL09,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL10,25,11b,02,0,120,0,15000,Ermelo / Piet Retief
+LMEL12,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL14,45,2a,06,0,120,0,15000,Vaal Triangle
+LMEL15,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL16,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL18,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL19,45,2a,06,0,120,0,15000,Vaal Triangle
+LMEL21,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL22,46,2b,03,0,120,0,15000,Krugersdorp / Sun City
+LMEL25,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMEL26,46,2b,03,0,120,0,999999,Krugersdorp / Sun City
+LMEL27,19,4b,03,0,120,0,999999,Nelspruit / Tzaneen
+LMEL29,37,11a,03,0,120,0,5000,Free State / Lesotho
+LMEL30,37,11a,03,0,120,0,5000,Free State / Lesotho
+LMEL32,40,6b,04,0,120,0,999999,West Cape
+LMEL33,4,1b,03,0,120,0,999999,Pretoria North/South/West
+LMEV01,32,7b,CONS5,0,120,0,4000,Gauteng N - Randburg/Rivonia
+LMEW01,18,4a,06,0,120,0,3000,Pietersburg / Potgietersrus
+LMIB01,49,10a,02,0,120,0,2000,Durban
+LMOE01,19,4b,06,0,120,0,3000,Nelspruit / Tzaneen
+LMOE02,37,11a,03,0,120,0,15000,Free State / Lesotho
+LMUL04,40,6b,04,0,120,0,500,West Cape
+LMUL05,40,6b,04,0,120,0,500,West Cape
+LMUL06,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+LMUL08,40,6b,04,0,120,0,500,West Cape
+LMUL09,40,6b,04,0,120,0,500,West Cape
+LMUL12,40,6b,04,0,120,0,500,West Cape
+LMUL13,40,6b,04,0,120,0,2000,West Cape
+LMUL15,39,6a,04,0,120,0,5000,East Cape
+LMUL16,40,6b,04,0,120,0,999999,West Cape
+LMUU01,18,4a,06,0,120,0,0,Pietersburg / Potgietersrus
+LNAE01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+LNAL01,14,3b,06,0,120,0,500,Johannesburg CBD
+LNEO01,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+LNEO02,33,1d,03C,0,120,0,4000,Pretoria
+LNEO03,34,1e,03,0,120,0,4000,Witbank/Middelburg
+LNIS01,16,1c,03,0,120,0,2000,Pretoria East
+LOLS01,39,6a,03,0,120,0,4000,East Cape
+LPAM01,36,7c,05,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand
+LPAM02,40,6b,04,0,120,0,5000,West Cape
+LPIL01,41,10a,02,0,120,0,2000,Durban
+LPIL02,49,10a,02,0,120,0,3000,Durban
+LPIL05,41,10a,02,0,120,0,2500,Durban
+LPIL06,41,10a,02,0,120,0,2000,Durban
+LPIL07,39,6a,02,0,30,0,1500,East Cape
+LPIL08,41,10a,02,0,120,0,5000,Durban
+LPOI01,40,6b,04,0,120,0,2000,West Cape
+LPUE01,45,2a,06,0,120,0,6000,Vaal Triangle
+LSAI01,41,10a,02,0,120,0,500,Durban
+LSEE01,37,11a,02,0,120,0,5000,Free State / Lesotho
+LSEO01,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus
+LSOO01,40,6b,04C,0,120,0,3000,West Cape
+LSOW01,41,10a,02,0,120,0,2000,Durban
+LSOW02,41,10a,02,0,30,0,10000,Durban
+LSOW04,40,6b,04,0,120,0,2000,West Cape
+LSUL01,14,3b,06,0,120,0,15000,Johannesburg CBD
+LTIL01,45,2a,06,0,120,0,15000,Vaal Triangle
+LTYE01,49,10a,02,0,120,0,2000,Durban
+LVAJ01,41,10a,02,0,120,0,3000,Durban
+LVAL01,49,10a,02,0,120,0,2000,Durban
+LVAU02,41,10a,02,0,120,0,3000,Durban
+LVIL02,40,6b,04,0,120,0,999999,West Cape
+LWAS02,30,7a,05,0,120,0,0,Gauteng N - Sandton
+LWAV01,29,5a,01EXP,0,120,0,3000,Botswana and Exports
+LWED01,39,6a,04,0,120,0,5000,East Cape
+LWEG01,40,6b,04,0,120,0,2000,West Cape
+LWEL01,40,6b,04,0,120,0,3000,West Cape
+LWIL04,46,2b,05,0,120,0,1500,Krugersdorp / Sun City
+LZIL01,40,6b,04,0,30,0,2500,West Cape
+MASA01,41,10a,02,0,120,0,18000,Durban
+MCOB01,31,8a,06,0,120,0,10000,Gauteng E - Alberton/Benoni/Kempton
+MFAO01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+MGAS01,40,6b,04C,0,120,0,5000,West Cape
+MGUE01,49,10a,02,0,120,0,0,Durban
+MHAM01,49,10a,06,0,120,0,999999,Durban
+MHUA02,39,6a,ZZZ5,0,120,0,2000,East Cape
+MISA01,32,7b,05,0,120,0,3000,Gauteng N - Randburg/Rivonia
+MLEN01,31,8a,06C,0,120,0,4000,Gauteng E - Alberton/Benoni/Kempton
+MLOB02,31,8a,06,0,120,0,10000,Gauteng E - Alberton/Benoni/Kempton
+MLOB03,19,4b,06,0,120,0,5000,Nelspruit / Tzaneen
+MOSA01,31,8a,06,0,120,0,75000,Gauteng E - Alberton/Benoni/Kempton
+MOSA02,31,8a,06,0,120,0,1500,Gauteng E - Alberton/Benoni/Kempton
+MOSA03,31,8a,06,0,30,0,999999,Gauteng E - Alberton/Benoni/Kempton
+MRAA03,4,1b,03,0,120,0,1000,Pretoria North/South/West
+MRAD01,41,10a,02,0,120,0,1500,Durban
+MRAD02,41,10a,02,0,120,0,2000,Durban
+MRAK01,42,10b,02,0,120,0,4000,Midlands
+MRAL02,40,6b,04,0,120,0,2000,West Cape
+MRAL04,41,10a,02,0,120,0,5000,Durban
+MRAR01,49,10a,02,0,120,0,2000,Durban
+MRAR02,41,10a,02,0,30,0,999999,Durban
+MSAU01,39,6a,04,0,120,0,3000,East Cape
+MSAW01,40,6b,04C,0,120,0,999,West Cape
+MSAW02,40,6b,04C,0,120,0,999999,West Cape
+MSIO01,31,8a,06,0,120,0,15000,Gauteng E - Alberton/Benoni/Kempton
+MSIP02,39,6a,04,0,120,0,1000,East Cape
+MSIT02,41,10a,02,0,120,0,7500,Durban
+MSOE01,39,6a,04,0,120,0,3500,East Cape
+MSOE02,40,6b,04,0,120,0,2000,West Cape
+MSUM01,39,6a,04,0,120,0,3000,East Cape
+MSYO01,40,6b,04,0,120,0,1000,West Cape
+MTAB01,32,7b,05,0,120,0,5000,Gauteng N - Randburg/Rivonia
+MTEB01,14,3b,05,0,120,0,3000,Johannesburg CBD
+MYBT01,41,10a,02,0,120,0,999999,Durban
+NANI01,14,3b,06,0,30,0,2000,Johannesburg CBD
+NBAK01,30,7a,05,0,120,0,3000,Gauteng N - Sandton
+NBEJ01,32,7b,05,0,120,0,10000,Gauteng N - Randburg/Rivonia
+NBEM02,40,6b,04,0,120,0,2000,West Cape
+NBEM03,30,7a,05,0,120,0,2500,Gauteng N - Sandton
+NBOO01,41,10a,02,0,30,0,2000,Durban
+NDAI01,41,10a,02,0,120,0,2000,Durban
+NDAI02,30,7a,05,0,120,0,1000,Gauteng N - Sandton
+NFIM01,39,6a,04,0,120,0,2000,East Cape
+NGEE01,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+NGEE02,40,6b,04,0,120,0,5000,West Cape
+NGEG01,41,10a,02C,0,120,0,5000,Durban
+NHER01,29,5a,01EXP,0,120,0,5000,Botswana and Exports
+NJEK01,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+NJEK02,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+NJIA01,19,4b,03,0,120,0,20000,Nelspruit / Tzaneen
+NJIA02,31,8a,06,0,120,0,4000,Gauteng E - Alberton/Benoni/Kempton
+NJOE01,41,10a,02,0,120,0,15000,Durban
+NJOE02,31,8a,06,0,120,0,10000,Gauteng E - Alberton/Benoni/Kempton
+NKEN01,42,10b,02,0,120,0,30000,Midlands
+NKEY01,19,4b,03,0,120,0,2000,Nelspruit / Tzaneen
+NKIG01,37,11a,06,0,120,0,7500,Free State / Lesotho
+NKOQ01,39,6a,02,0,120,0,999999,East Cape
+NKUG01,46,2b,03,0,120,0,3000,Krugersdorp / Sun City
+NLAD01,46,2b,03,0,120,0,5000,Krugersdorp / Sun City
+NLAD02,40,6b,04,0,120,0,4000,West Cape
+NLAE01,31,8a,06,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+NLAG01,40,6b,04,0,120,0,2000,West Cape
+NLAG02,34,1e,03,0,120,0,2500,Witbank/Middelburg
+NLOE01,32,7b,05,0,30,0,2500,Gauteng N - Randburg/Rivonia
+NLOG01,37,11a,03,0,120,0,5000,Free State / Lesotho
+NLUN01,16,1c,03,0,120,0,3000,Pretoria East
+NMAD01,39,6a,04,0,120,0,1000,East Cape
+NMAG01,37,11a,03,0,120,0,0,Free State / Lesotho
+NMAG02,43,3a,06,0,120,0,5000,Soweto/Lenasia
+NMAI01,43,3a,05,0,120,0,3500,Soweto/Lenasia
+NMAJ01,41,10a,02,0,120,0,4000,Durban
+NMAN01,42,10b,02,0,120,0,5000,Midlands
+NMAO01,36,7c,05,0,120,0,30000,Gauteng N - Eastgate/Norwood/Midrand
+NMAO02,43,3a,05,0,120,0,10000,Soweto/Lenasia
+NMAS01,25,11b,02,0,60,0,999999,Ermelo / Piet Retief
+NMEL01,4,1b,03,0,120,0,1000,Pretoria North/South/West
+NMIG02,30,7a,05,0,120,0,15000,Gauteng N - Sandton
+NMOE01,2,1a,03,0,120,0,4000,Pretoria Central
+NMOE02,33,1d,03,0,120,0,2000,Pretoria
+NMOE03,33,1d,03,0,30,0,60000,Pretoria
+NMOT01,49,10a,02,0,120,0,2000,Durban
+NNIA01,37,11a,03,0,120,0,2000,Free State / Lesotho
+NNUA02,39,6a,04,0,120,0,2000,East Cape
+NNUA03,39,6a,04,0,120,0,2000,East Cape
+NOMI01,49,10a,02,0,120,0,3000,Durban
+NPAO01,40,6b,04,0,30,0,6000,West Cape
+NPIE02,40,6b,04,0,120,0,1000,West Cape
+NPIN01,46,2b,03,0,120,0,5000,Krugersdorp / Sun City
+NRAC01,18,4a,06,0,120,0,3500,Pietersburg / Potgietersrus
+NRAD01,32,7b,05,0,120,0,5000,Gauteng N - Randburg/Rivonia
+NRAD03,32,7b,05,0,120,0,7500,Gauteng N - Randburg/Rivonia
+NRAD04,32,7b,05,0,120,0,3000,Gauteng N - Randburg/Rivonia
+NRAK01,46,2b,03,0,120,0,5000,Krugersdorp / Sun City
+NREK01,45,2a,06,0,120,0,1500,Vaal Triangle
+NREO02,31,8a,06,0,120,5,5000,Gauteng E - Alberton/Benoni/Kempton
+NREO03,39,6a,04,0,120,0,999999,East Cape
+NSEE01,37,11a,03,0,120,0,5000,Free State / Lesotho
+NSEE02,46,2b,03,0,120,0,3000,Krugersdorp / Sun City
+NSIG01,41,10a,02,0,120,0,5000,Durban
+NSIG02,41,10a,02,0,120,0,2000,Durban
+NSIO01,16,1c,03,0,120,0,5000,Pretoria East
+NSUC02,46,2b,03,0,120,0,5000,Krugersdorp / Sun City
+NSUD01,41,10a,02,0,120,0,2000,Durban
+NSUG05,33,1d,03,0,120,0,2000,Pretoria
+NSUG09,41,10a,02,0,120,0,3000,Durban
+NSUG10,32,7b,05,0,120,0,20000,Gauteng N - Randburg/Rivonia
+NSUG11,41,10a,02,0,120,0,0,Durban
+NSUG13,30,7a,05,0,120,0,20000,Gauteng N - Sandton
+NSUG14,30,7a,01STU,1,30,12,999999,Gauteng N - Sandton
+NSUG15,36,7c,05,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand
+NSUG16,29,5a,06,0,120,0,999999,Botswana and Exports
+NSUN03,32,7b,05C,0,120,0,7000,Gauteng N - Randburg/Rivonia
+NSUO02,31,8a,06,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+NSUS01,49,10a,02,0,120,0,1000,Durban
+NSUS04,42,10b,02,0,120,0,5000,Midlands
+NSUS06,42,10b,02,0,120,0,5000,Midlands
+NSUS07,41,10a,02,0,120,0,1500,Durban
+NSUS09,42,10b,02,0,120,0,2500,Midlands
+NSUS10,41,10a,02,10,30,0,10000,Durban
+NSUS11,40,6b,04,0,120,0,5000,West Cape
+NSUW01,31,8a,06,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+NTOG02,41,10a,02,0,120,0,1500,Durban
+NTOK01,40,6b,04,0,120,0,1500,West Cape
+NVAD01,42,10b,02,0,120,5,3000,Midlands
+NVAD03,46,2b,03,0,120,0,3000,Krugersdorp / Sun City
+NVAD05,14,3b,06,0,120,0,1000,Johannesburg CBD
+NVAD07,40,6b,04,0,120,0,2000,West Cape
+NVAD09,39,6a,02,0,120,0,1500,East Cape
+NVAD10,39,6a,03,0,120,5,5000,East Cape
+NVAD11,34,1e,03,0,120,0,1000,Witbank/Middelburg
+NVAD12,40,6b,04,0,120,0,1000,West Cape
+NVAD13,46,2b,03,0,120,0,20000,Krugersdorp / Sun City
+NVAD14,39,6a,04,0,120,0,6000,East Cape
+NVAG03,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+NVAG04,33,1d,03C,0,120,0,500,Pretoria
+NVAK01,33,1d,03,0,120,0,4000,Pretoria
+NVAN01,19,4b,06,0,120,0,0,Nelspruit / Tzaneen
+NVAN04,4,1b,03,0,120,0,1500,Pretoria North/South/West
+NVAR01,40,6b,04,0,120,0,500,West Cape
+NVAR03,45,2a,06,0,120,0,5000,Vaal Triangle
+NVAR05,18,4a,06,0,120,0,7500,Pietersburg / Potgietersrus
+NVAR06,30,7a,05,0,60,0,999999,Gauteng N - Sandton
+NVAR07,16,1c,03,0,120,0,2000,Pretoria East
+NVAR08,18,4a,06,0,120,0,2000,Pietersburg / Potgietersrus
+NVAR09,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus
+NVAR10,18,4a,06,0,120,0,999999,Pietersburg / Potgietersrus
+NVAS02,41,10a,02,0,120,0,1000,Durban
+NVAS03,34,1e,03,0,120,0,5000,Witbank/Middelburg
+NVAS05,40,6b,04,0,120,0,500,West Cape
+NVAS06,40,6b,04,0,120,0,500,West Cape
+NVIE01,18,4a,06,0,120,0,2500,Pietersburg / Potgietersrus
+NVOA01,33,1d,03,0,120,0,999999,Pretoria
+NVOH01,30,7a,05,0,120,0,1000,Gauteng N - Sandton
+NWID01,41,10a,02,0,120,0,7500,Durban
+NWID02,29,5a,01EXP,0,120,0,6000,Botswana and Exports
+NWIE03,14,3b,06,0,120,0,1000,Johannesburg CBD
+NWIG01,40,6b,04,0,120,0,3000,West Cape
+NWYB01,40,6b,04,0,120,0,2000,West Cape
+NYES01,36,7c,05,0,120,0,1000,Gauteng N - Eastgate/Norwood/Midrand
+NZAD01,39,6a,02,0,60,0,999999,East Cape
+OALN01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+OAMP01,41,10a,02,0,120,0,3000,Durban
+OAVC01,41,10a,02,0,120,0,1000,Durban
+OAVN01,32,7b,05,0,120,0,10000,Gauteng N - Randburg/Rivonia
+OBHO01,41,10a,02,0,120,0,7500,Durban
+OBHO03,40,6b,04C,0,120,0,4000,West Cape
+OBLC02,31,8a,05,0,120,0,999999,Gauteng E - Alberton/Benoni/Kempton
+OBOY01,46,2b,05,0,120,5,10000,Krugersdorp / Sun City
+OBRU01,39,6a,04,0,120,0,3000,East Cape
+OCHN01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+OCHT01,43,3a,05,0,120,0,1000,Soweto/Lenasia
+OCLI02,32,7b,05,0,120,0,0,Gauteng N - Randburg/Rivonia
+OCRS01,37,11a,03,0,120,0,25000,Free State / Lesotho
+ODOK01,49,10a,02,0,120,0,1000,Durban
+ODOL01,43,3a,05,0,120,0,2500,Soweto/Lenasia
+OEMN01,39,6a,02,0,30,0,1000,East Cape
+OFLR01,46,2b,05,0,120,0,7500,Krugersdorp / Sun City
+OFZP01,18,4a,06,0,120,0,4000,Pietersburg / Potgietersrus
+OGKP01,4,1b,03,0,120,0,1500,Pretoria North/South/West
+OGLV02,39,6a,02,0,120,0,2000,East Cape
+OGMP01,37,11a,06,0,120,0,2500,Free State / Lesotho
+OGOD01,4,1b,01,0,120,0,500,Pretoria North/South/West
+OGOD04,47,2c,06,0,120,0,999999,Potch / Krugersdorp / Kuruman
+OGOD05,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+OGOL01,32,7b,07,0,120,0,10000,Gauteng N - Randburg/Rivonia
+OGRB01,47,2c,06,0,120,0,3000,Potch / Krugersdorp / Kuruman
+OGRL01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+OGRV01,47,2c,06,0,120,0,999999,Potch / Krugersdorp / Kuruman
+OHOS03,41,10a,02,0,120,0,3000,Durban
+OIFC01,16,1c,03C,0,120,0,2000,Pretoria East
+OJEN01,29,5a,06,0,120,0,5000,Botswana and Exports
+OKGM01,31,8a,06,0,120,0,999999,Gauteng E - Alberton/Benoni/Kempton
+OKGM02,2,1a,03,0,120,0,999999,Pretoria Central
+OKHM01,18,4a,06,0,120,0,0,Pietersburg / Potgietersrus
+OKHT01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+OKHZ01,19,4b,03,0,120,0,999999,Nelspruit / Tzaneen
+OKLO01,49,10a,02,0,120,0,1000,Durban
+OKOL01,37,11a,03,0,120,0,7500,Free State / Lesotho
+OKRP01,43,3a,06,0,120,0,2000,Soweto/Lenasia
+OLCP01,40,6b,04,0,120,0,0,West Cape
+OMMW01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+OMOD01,14,3b,06,0,120,0,10000,Johannesburg CBD
+OMOD02,49,10a,02,0,120,0,1000,Durban
+OMOD04,41,10a,02,0,120,0,2000,Durban
+OMOI01,32,7b,05,0,120,0,999999,Gauteng N - Randburg/Rivonia
+OMOL01,30,7a,05,0,120,0,20000,Gauteng N - Sandton
+OMOS01,14,3b,06,0,120,0,1000,Johannesburg CBD
+OMOS03,46,2b,07,0,120,0,10000,Krugersdorp / Sun City
+OMOS05,43,3a,06,0,120,0,10000,Soweto/Lenasia
+ONKS01,14,3b,06,0,120,0,2000,Johannesburg CBD
+ONOR01,43,3a,06,0,120,0,2000,Soweto/Lenasia
+ONSP01,37,11a,03,0,120,0,5000,Free State / Lesotho
+OPHO01,32,7b,06,0,120,0,5000,Gauteng N - Randburg/Rivonia
+OPRF01,40,6b,04C,0,120,0,5000,West Cape
+OPRM01,43,3a,06,0,120,0,4000,Soweto/Lenasia
+OPRO02,43,3a,06,0,120,0,5000,Soweto/Lenasia
+OPRP01,39,6a,02,0,120,0,5000,East Cape
+OPRV02,46,2b,03,0,120,0,15000,Krugersdorp / Sun City
+OPSP01,41,10a,02,0,120,0,5000,Durban
+OROP01,41,10a,02,0,120,0,2000,Durban
+OROS01,31,8a,06C,0,120,0,1500,Gauteng E - Alberton/Benoni/Kempton
+OROS04,37,11a,03,0,120,0,10000,Free State / Lesotho
+OROS05,37,11a,03C,0,120,0,10000,Free State / Lesotho
+OROS06,40,6b,04C,0,120,0,2000,West Cape
+OSLP01,39,6a,02,0,120,0,20000,East Cape
+OSTL01,42,10b,02,0,120,0,5000,Midlands
+OSTU01,41,10a,02,0,120,0,3000,Durban
+OSYN01,36,7c,05,0,120,0,999999,Gauteng N - Eastgate/Norwood/Midrand
+OTHM02,31,8a,06,0,120,0,4000,Gauteng E - Alberton/Benoni/Kempton
+OWOD01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+OWOD02,46,2b,05,0,120,0,10000,Krugersdorp / Sun City
+OWRB01,25,11b,06,0,120,0,5000,Ermelo / Piet Retief
+OYPP01,47,2c,06,0,120,0,999999,Potch / Krugersdorp / Kuruman
+PASE01,40,6b,04,0,120,0,3000,West Cape
+PASE02,40,6b,04,0,120,0,2000,West Cape
+PBAE01,25,11b,06,0,120,0,999999,Ermelo / Piet Retief
+PCOP01,40,6b,04,0,120,0,3000,West Cape
+PDIL01,2,1a,03,0,120,0,999999,Pretoria Central
+PDIP01,47,2c,06,0,120,0,15000,Potch / Krugersdorp / Kuruman
+PDIP02,2,1a,03,0,120,0,1000,Pretoria Central
+PDUI01,43,3a,06,0,120,0,1500,Soweto/Lenasia
+PDUL01,47,2c,06,0,120,0,3000,Potch / Krugersdorp / Kuruman
+PESL01,41,10a,02,0,120,0,2000,Durban
+PGOA01,39,6a,04,0,30,0,0,East Cape
+PHYE02,31,8a,05C,0,120,0,500,Gauteng E - Alberton/Benoni/Kempton
+PHYE03,19,4b,03,0,120,0,3000,Nelspruit / Tzaneen
+PMAU02,34,1e,03,0,120,0,999999,Witbank/Middelburg
+PMOA01,19,4b,03,0,120,0,20000,Nelspruit / Tzaneen
+PMOH01,37,11a,03,0,30,0,1000,Free State / Lesotho
+POPE01,40,6b,04,0,120,0,2000,West Cape
+PPAP01,40,6b,04C,0,120,0,5000,West Cape
+PPAP02,40,6b,04C,0,120,0,5000,West Cape
+PRAH01,18,4a,06,0,120,0,5000,Pietersburg / Potgietersrus
+PSEE01,33,1d,03,0,120,0,2000,Pretoria
+PSEI01,4,1b,03,0,120,0,2000,Pretoria North/South/West
+PSUE02,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+PSUE03,41,10a,02,0,120,0,2000,Durban
+RAFI01,46,2b,07,0,90,0,10000,Krugersdorp / Sun City
+RAFO02,2,1a,03,0,120,0,20000,Pretoria Central
+RAMA01,49,10a,02,0,120,0,2000,Durban
+RBAN01,32,7b,05,0,120,0,3000,Gauteng N - Randburg/Rivonia
+RBAR01,31,8a,05,0,120,0,7500,Gauteng E - Alberton/Benoni/Kempton
+RBEG01,39,6a,04,0,120,0,5000,East Cape
+RBEM01,36,7c,05,0,120,0,5000,Gauteng N - Eastgate/Norwood/Midrand
+RBEM02,2,1a,03C,0,120,0,5000,Pretoria Central
+RBUG01,25,11b,02,0,120,0,10000,Ermelo / Piet Retief
+RBUG02,40,6b,04C,0,120,0,5000,West Cape
+RBUN01,32,7b,05,0,120,0,3000,Gauteng N - Randburg/Rivonia
+RCAE01,39,6a,04,0,120,0,20000,East Cape
+RCAE03,46,2b,05,0,120,0,10000,Krugersdorp / Sun City
+RCAR01,2,1a,03,0,120,0,7500,Pretoria Central
+RCON01,2,1a,03,0,120,0,2000,Pretoria Central
+RCON02,46,2b,03,0,120,0,2000,Krugersdorp / Sun City
+RCON05,2,1a,03,0,120,0,1500,Pretoria Central
+RDAR01,36,7c,05,0,120,0,4000,Gauteng N - Eastgate/Norwood/Midrand
+RDOF01,31,8a,06,0,120,0,0,Gauteng E - Alberton/Benoni/Kempton
+RDOF02,30,7a,05,0,120,0,5000,Gauteng N - Sandton
+RDUB01,49,10a,02,0,120,0,3000,Durban
+RFER01,39,6a,04,0,120,0,1000,East Cape
+RFER02,19,4b,03,0,120,0,500,Nelspruit / Tzaneen
+RFOE01,37,11a,03,0,120,0,2000,Free State / Lesotho
+RHIS01,2,1a,03,0,120,0,2000,Pretoria Central
+RIBA01,49,10a,02,0,60,0,999999,Durban
+RJOD02,31,8a,06,0,120,0,4000,Gauteng E - Alberton/Benoni/Kempton
+RKAE01,25,11b,02,0,120,0,10000,Ermelo / Piet Retief
+RKAI01,49,10a,02,0,30,0,3500,Durban
+RKOB01,4,1b,03,0,120,0,2000,Pretoria North/South/West
+RLEO01,40,6b,04,0,120,0,3000,West Cape
+RLEO02,40,6b,04,0,120,0,2000,West Cape
+RLEO03,39,6a,02,0,120,0,2000,East Cape
+RLEO04,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+RLEO05,40,6b,04,0,120,0,3000,West Cape
+RLEO06,39,6a,04,0,120,0,5000,East Cape
+RMAA01,47,2c,03,0,120,0,7500,Potch / Krugersdorp / Kuruman
+RMAA02,47,2c,03,0,120,0,5000,Potch / Krugersdorp / Kuruman
+RMAA03,4,1b,03,0,120,0,5000,Pretoria North/South/West
+RMAB02,34,1e,03,0,120,0,18000,Witbank/Middelburg
+RMAE01,14,3b,06C,0,120,5,4000,Johannesburg CBD
+RMAE02,45,2a,06,0,120,0,1000,Vaal Triangle
+RMAK03,14,3b,06,0,120,0,1500,Johannesburg CBD
+RMAT02,14,3b,05,0,120,0,500,Johannesburg CBD
+RMEC01,30,7a,99999,0,120,0,2000,Gauteng N - Sandton
+RMUR01,33,1d,03,0,120,0,3000,Pretoria
+RNOT01,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+RNOT02,32,7b,05,0,120,0,0,Gauteng N - Randburg/Rivonia
+RNOT03,45,2a,06,0,120,5,1000,Vaal Triangle
+RNOT04,33,1d,03,0,120,0,1000,Pretoria
+RNUD01,36,7c,05,0,120,0,3000,Gauteng N - Eastgate/Norwood/Midrand
+ROUI01,29,5a,01EXP,0,120,0,999999,Botswana and Exports
+RPAK01,25,11b,05,0,120,0,5000,Ermelo / Piet Retief
+RPAK02,45,2a,06,0,120,0,4000,Vaal Triangle
+RPAK03,45,2a,06,0,120,0,500,Vaal Triangle
+RPAK04,40,6b,04,0,120,0,2000,West Cape
+RPAK05,49,10a,02,0,120,0,3000,Durban
+RPAM03,39,6a,04,0,120,0,20000,East Cape
+RPES01,41,10a,02,0,120,0,999999,Durban
+RPES02,41,10a,02,0,30,0,2000,Durban
+RPEU01,41,10a,02,0,120,0,1000,Durban
+RSPI01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+RSPI02,40,6b,04,0,120,0,5000,West Cape
+RSTA01,40,6b,04,0,120,0,5000,West Cape
+RSTA02,41,10a,02,0,120,0,500,Durban
+RSTA03,33,1d,03,0,120,0,2500,Pretoria
+RSTA04,41,10a,02,0,120,0,20000,Durban
+RSTY01,39,6a,02,0,120,0,500,East Cape
+RTOG05,46,2b,03,0,120,0,4000,Krugersdorp / Sun City
+RTOG12,18,4a,06,0,120,0,20000,Pietersburg / Potgietersrus
+RTOG15,33,1d,03,0,120,0,7000,Pretoria
+RTOG16,19,4b,03,0,120,0,10000,Nelspruit / Tzaneen
+RTOG17,14,3b,06,0,60,0,999999,Johannesburg CBD
+RTOG18,47,2c,06,0,60,0,999999,Potch / Krugersdorp / Kuruman
+RTOG19,31,8a,06,0,60,0,999999,Gauteng E - Alberton/Benoni/Kempton
+RTOG20,39,6a,04,0,60,0,999999,East Cape
+RUNO01,41,10a,02,0,120,0,2000,Durban
+RVAI01,41,10a,02,0,120,0,0,Durban
+RVAI03,31,8a,06,0,120,0,15000,Gauteng E - Alberton/Benoni/Kempton
+RVEE01,45,2a,06,0,120,0,500,Vaal Triangle
+RVOS01,47,2c,07,0,120,0,2000,Potch / Krugersdorp / Kuruman
+RVOS02,34,1e,03,0,120,0,5000,Witbank/Middelburg
+SABO01,40,6b,04C,0,120,0,3000,West Cape
+SASO03,16,1c,03C,0,30,0,999999,Pretoria East
+SBET02,37,11a,03,0,120,0,5000,Free State / Lesotho
+SBIM01,47,2c,06,0,120,0,4000,Potch / Krugersdorp / Kuruman
+SCAS01,49,10a,02,0,120,0,2500,Durban
+SCAS02,41,10a,02,0,120,0,5000,Durban
+SCAS03,49,10a,02,0,120,0,1000,Durban
+SDEA01,47,2c,05,0,120,0,10000,Potch / Krugersdorp / Kuruman
+SDEM01,4,1b,03,0,120,0,20000,Pretoria North/South/West
+SEAT03,31,8a,06,0,120,5,2000,Gauteng E - Alberton/Benoni/Kempton
+SEAT04,33,1d,03,0,120,0,6000,Pretoria
+SEKT02,2,1a,03,0,120,0,500,Pretoria Central
+SEKT03,40,6b,04,0,120,0,2000,West Cape
+SESE01,41,10a,02,0,120,0,1000,Durban
+SESI01,31,8a,06,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+SFIM01,30,7a,05,0,30,0,3000,Gauteng N - Sandton
+SFOC01,40,6b,01,0,120,0,30000,West Cape
+SHAS01,4,1b,03,0,30,0,500,Pretoria North/South/West
+SHAS03,18,4a,06,0,120,0,7000,Pietersburg / Potgietersrus
+SHAS04,16,1c,03,0,120,0,2000,Pretoria East
+SINI01,36,7c,05C,0,120,0,2000,Gauteng N - Eastgate/Norwood/Midrand
+SINI02,41,10a,02,0,120,0,2500,Durban
+SJAS01,43,3a,05,0,120,0,5000,Soweto/Lenasia
+SKAI01,41,10a,02,0,120,0,1500,Durban
+SKAO01,41,10a,02C,0,120,0,3000,Durban
+SKEH01,43,3a,05,0,120,0,999999,Soweto/Lenasia
+SLEE01,32,7b,05,0,120,5,3000,Gauteng N - Randburg/Rivonia
+SLEE03,14,3b,06,0,120,0,2500,Johannesburg CBD
+SLEE04,32,7b,06,0,30,0,2000,Gauteng N - Randburg/Rivonia
+SLEH01,37,11a,03,0,120,0,7500,Free State / Lesotho
+SLEO01,46,2b,03,0,120,0,1000,Krugersdorp / Sun City
+SLIS01,39,6a,04,0,120,0,1000,East Cape
+SLUT01,40,6b,04,0,120,0,2000,West Cape
+SMAE02,19,4b,03,0,120,0,0,Nelspruit / Tzaneen
+SMAE03,18,4a,06,0,120,0,1000,Pietersburg / Potgietersrus
+SMAI01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+SMAT02,16,1c,03C,0,120,0,2000,Pretoria East
+SMIT01,16,1c,03,0,120,0,3000,Pretoria East
+SMOI01,29,5a,06,0,120,0,5000,Botswana and Exports
+SMOW01,19,4b,03,0,120,0,15000,Nelspruit / Tzaneen
+SMTH01,34,1e,03,0,120,0,50000,Witbank/Middelburg
+SMUH01,19,4b,06,0,120,0,999999,Nelspruit / Tzaneen
+SNTA01,31,8a,06,0,120,0,100,Gauteng E - Alberton/Benoni/Kempton
+SNTH01,39,6a,02,0,120,0,0,East Cape
+SNTO01,18,4a,06,0,120,0,5000,Pietersburg / Potgietersrus
+SNUI01,40,6b,04,0,120,0,5000,West Cape
+SNUI02,40,6b,04C,0,120,0,2000,West Cape
+SPIT01,40,6b,04C,0,120,0,2500,West Cape
+SRAO01,4,1b,03,0,30,0,2000,Pretoria North/South/West
+SROE01,30,7a,05,0,120,0,0,Gauteng N - Sandton
+SROE05,32,7b,05,0,120,0,3500,Gauteng N - Randburg/Rivonia
+SROE06,45,2a,06,0,120,0,3000,Vaal Triangle
+SROS01,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+SROS02,25,11b,06,0,120,0,5000,Ermelo / Piet Retief
+SSEH01,47,2c,06,0,120,0,2000,Potch / Krugersdorp / Kuruman
+SVII01,42,10b,02,0,120,0,3000,Midlands
+SVII02,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+SVII03,29,5a,06,0,120,0,3000,Botswana and Exports
+SVII05,29,5a,06,0,120,0,1500,Botswana and Exports
+SVII07,43,3a,06,0,120,0,5000,Soweto/Lenasia
+SVII09,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+SVII11,39,6a,04,0,120,0,2000,East Cape
+SVII12,32,7b,05,0,120,0,1000,Gauteng N - Randburg/Rivonia
+SVII13,46,2b,05,0,120,0,1000,Krugersdorp / Sun City
+SVII14,32,7b,05,0,120,0,5000,Gauteng N - Randburg/Rivonia
+SVII15,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+SVII16,46,2b,05,0,120,0,1000,Krugersdorp / Sun City
+SVII17,41,10a,02,0,30,0,10000,Durban
+SVII18,39,6a,02,0,120,0,3000,East Cape
+SVII19,32,7b,05,0,120,0,999999,Gauteng N - Randburg/Rivonia
+SVIS01,19,4b,03,0,120,0,2000,Nelspruit / Tzaneen
+SVIU01,42,10b,02,0,120,0,2000,Midlands
+SVIU02,41,10a,02,0,120,0,5000,Durban
+SVIU03,42,10b,02,0,120,0,4000,Midlands
+SVIU04,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+SVIU05,34,1e,03,0,30,0,2500,Witbank/Middelburg
+SWET01,41,10a,02,0,120,0,20000,Durban
+SWET02,29,5a,06,0,120,0,1000,Botswana and Exports
+SWET03,32,7b,05,0,120,0,999999,Gauteng N - Randburg/Rivonia
+SWET04,41,10a,02,0,120,0,3000,Durban
+SWET06,49,10a,02,0,120,0,999999,Durban
+SYSE01,31,8a,06,0,120,0,4000,Gauteng E - Alberton/Benoni/Kempton
+SYSE04,33,1d,03,0,120,0,13000,Pretoria
+TACI01,29,5a,06C,0,120,0,1500,Botswana and Exports
+TBEH01,42,10b,02,0,120,0,12000,Midlands
+TBOH01,46,2b,05,0,120,0,2000,Krugersdorp / Sun City
+TBOH02,41,10a,02,0,120,0,5000,Durban
+TBOH03,37,11a,03,0,30,0,2000,Free State / Lesotho
+TBOH04,40,6b,04,0,60,0,999999,West Cape
+TBOJ01,32,7b,05C,0,120,0,2000,Gauteng N - Randburg/Rivonia
+TBOS01,37,11a,03,0,120,0,0,Free State / Lesotho
+TCIY01,14,3b,06,0,120,0,3000,Johannesburg CBD
+TCIY02,14,3b,06,0,120,0,2000,Johannesburg CBD
+TDAE01,31,8a,06,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton
+TDUO01,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+TDUT01,39,6a,02,0,120,0,3000,East Cape
+TESH01,32,7b,05,0,120,0,4000,Gauteng N - Randburg/Rivonia
+TGAE01,40,6b,04,0,120,0,1000,West Cape
+TINR01,40,6b,04,0,30,18,20000,West Cape
+TKAH01,41,10a,02,0,120,0,2500,Durban
+TLES03,18,4a,06,0,120,0,1500,Pietersburg / Potgietersrus
+TLOT01,19,4b,03,0,120,0,15000,Nelspruit / Tzaneen
+TLOU01,14,3b,06,0,120,0,30000,Johannesburg CBD
+TLUC01,49,10a,02,0,120,0,2000,Durban
+TMAE02,30,7a,05,0,120,0,2000,Gauteng N - Sandton
+TMAH01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+TMAH03,25,11b,02,0,120,0,2000,Ermelo / Piet Retief
+TMAL01,4,1b,03,0,120,0,10000,Pretoria North/South/West
+TMAL02,42,10b,02,0,120,0,5000,Midlands
+TMAL03,31,8a,06,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton
+TMAL04,30,7a,05,0,120,0,3000,Gauteng N - Sandton
+TMAS01,47,2c,06,0,30,0,999999,Potch / Krugersdorp / Kuruman
+TMAT01,32,7b,05,0,120,0,1500,Gauteng N - Randburg/Rivonia
+TMOA01,41,10a,02,0,120,0,5000,Durban
+TMOA02,18,4a,06,0,120,0,4000,Pietersburg / Potgietersrus
+TMOA03,43,3a,06,0,120,0,2500,Soweto/Lenasia
+TMOH01,45,2a,06,0,120,0,4000,Vaal Triangle
+TMOS01,46,2b,05,0,120,0,2000,Krugersdorp / Sun City
+TMOS02,45,2a,06,0,120,0,0,Vaal Triangle
+TMOS03,19,4b,06,0,120,0,2000,Nelspruit / Tzaneen
+TMUH01,39,6a,04C,0,120,0,5000,East Cape
+TMUU01,41,10a,02,0,120,0,5000,Durban
+TNAH02,14,3b,06,0,120,0,2500,Johannesburg CBD
+TNAH03,31,8a,06,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton
+TNAH10,36,7c,05,0,30,0,10000,Gauteng N - Eastgate/Norwood/Midrand
+TNAI02,41,10a,02,0,120,0,999999,Durban
+TNET01,39,6a,04,0,120,0,3000,East Cape
+TNOW01,29,5a,06,0,120,0,10000,Botswana and Exports
+TNUW01,40,6b,04,0,120,0,2000,West Cape
+TOPI01,40,6b,04,0,120,0,3000,West Cape
+TOPI02,29,5a,06,0,120,0,4000,Botswana and Exports
+TOPI03,39,6a,04,0,120,0,12000,East Cape
+TOPI06,41,10a,02,0,120,0,12000,Durban
+TOPI07,29,5a,01EXP,0,120,0,0,Botswana and Exports
+TOPI10,29,5a,06,0,120,0,30000,Botswana and Exports
+TOPI11,29,5a,01EXP,0,120,0,5000,Botswana and Exports
+TOPI12,29,5a,06,0,120,0,1500,Botswana and Exports
+TOPI13,30,7a,05C,0,120,0,10000,Gauteng N - Sandton
+TOPI14,29,5a,06,0,120,0,30000,Botswana and Exports
+TOPI15,30,7a,05,0,120,0,20000,Gauteng N - Sandton
+TOPI16,40,6b,04,0,120,0,2000,West Cape
+TOPI17,39,6a,04,0,120,0,5000,East Cape
+TOPI18,40,6b,04,0,120,0,2000,West Cape
+TOPI19,40,6b,04,0,120,0,2000,West Cape
+TOPI20,40,6b,04,0,120,0,2000,West Cape
+TOPI21,41,10a,02,0,120,0,1000,Durban
+TOPI24,31,8a,05,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+TOPI25,36,7c,05,0,120,0,4000,Gauteng N - Eastgate/Norwood/Midrand
+TOPI29,46,2b,05,0,120,0,2000,Krugersdorp / Sun City
+TOPI32,39,6a,02,0,120,0,2000,East Cape
+TOPI33,31,8a,06,0,120,0,2500,Gauteng E - Alberton/Benoni/Kempton
+TOPI34,30,7a,05,0,120,0,6000,Gauteng N - Sandton
+TOPI44,45,2a,06,0,120,0,2000,Vaal Triangle
+TOPI46,19,4b,03,0,120,0,10000,Nelspruit / Tzaneen
+TOPI48,33,1d,03,0,120,0,5000,Pretoria
+TOPI49,32,7b,05,0,120,0,1000,Gauteng N - Randburg/Rivonia
+TOPI50,19,4b,03,0,120,0,2000,Nelspruit / Tzaneen
+TOPI51,32,7b,05,0,120,0,1000,Gauteng N - Randburg/Rivonia
+TOPI52,40,6b,04,0,120,0,500,West Cape
+TOPI53,31,8a,05,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+TOPI54,49,10a,02,0,120,0,3000,Durban
+TOPI55,31,8a,06,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+TOPI56,39,6a,02,0,120,0,0,East Cape
+TOPI58,14,3b,06,0,120,0,20000,Johannesburg CBD
+TOPI59,31,8a,06C,0,120,0,1500,Gauteng E - Alberton/Benoni/Kempton
+TOPI60,47,2c,06,0,120,0,5000,Potch / Krugersdorp / Kuruman
+TOPI61,32,7b,05,0,120,0,5000,Gauteng N - Randburg/Rivonia
+TOPI62,37,11a,03,0,120,0,20000,Free State / Lesotho
+TOPI63,14,3b,06,0,30,0,999999,Johannesburg CBD
+TOPI64,30,7a,05,0,120,0,999999,Gauteng N - Sandton
+TOPI65,25,11b,06,0,120,0,999999,Ermelo / Piet Retief
+TOPI66,34,1e,03,0,120,0,999999,Witbank/Middelburg
+TOPO01,40,6b,04C,0,120,0,5000,West Cape
+TOPO02,25,11b,06,0,120,0,50000,Ermelo / Piet Retief
+TPAE01,37,11a,03,0,120,0,5000,Free State / Lesotho
+TPAE02,40,6b,04,0,120,0,2000,West Cape
+TPAE03,14,3b,06,0,120,0,4000,Johannesburg CBD
+TPAE04,49,10a,02,0,120,0,3000,Durban
+TPAE05,43,3a,06,0,120,0,3000,Soweto/Lenasia
+TPAE06,14,3b,06,0,120,0,999999,Johannesburg CBD
+TPAH01,49,10a,02,0,120,0,3000,Durban
+TPAH02,49,10a,02,0,120,0,1500,Durban
+TPOG01,37,11a,03,0,120,0,4000,Free State / Lesotho
+TPOG02,39,6a,04,0,120,0,5000,East Cape
+TREI01,34,1e,03,0,120,0,5000,Witbank/Middelburg
+TRER01,40,6b,04,0,120,0,1000,West Cape
+TRUH01,33,1d,03,0,120,0,5000,Pretoria
+TRUT01,32,7b,05,0,120,0,2500,Gauteng N - Randburg/Rivonia
+TSEL01,18,4a,06,0,120,0,5000,Pietersburg / Potgietersrus
+TSUT01,46,2b,05,0,120,0,7500,Krugersdorp / Sun City
+TWAE02,16,1c,03,0,120,0,6000,Pretoria East
+TWIB01,34,1e,03,0,120,0,2000,Witbank/Middelburg
+TWIB02,34,1e,03,0,120,0,2000,Witbank/Middelburg
+TWIT01,30,7a,05,0,120,0,0,Gauteng N - Sandton
+TZIH01,34,1e,03,0,60,0,999999,Witbank/Middelburg
+TZIU01,37,11a,03,0,120,0,5000,Free State / Lesotho
+UBAE01,40,6b,04C,0,120,0,5000,West Cape
+UBAE02,39,6a,04,0,120,0,0,East Cape
+UBLM01,31,8a,06,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+UBLM02,4,1b,03,0,120,0,1000,Pretoria North/South/West
+UBOM01,40,6b,04,0,120,0,3000,West Cape
+UBOM02,40,6b,04,0,120,0,3000,West Cape
+UBOM03,40,6b,04C,0,120,0,3000,West Cape
+UBOR01,39,6a,02,0,120,0,15000,East Cape
+UBRW01,2,1a,03,0,120,0,3000,Pretoria Central
+UEQI01,16,1c,03,0,120,0,999999,Pretoria East
+UFOR04,30,7a,05C,0,120,0,2500,Gauteng N - Sandton
+UGLC01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+UGON02,41,10a,02,0,120,0,500,Durban
+UGOW01,19,4b,06,0,120,0,7500,Nelspruit / Tzaneen
+UHOS01,32,7b,05,0,120,0,5000,Gauteng N - Randburg/Rivonia
+UIDT01,39,6a,02,0,120,0,5500,East Cape
+UKRG03,31,8a,06,0,120,0,1000,Gauteng E - Alberton/Benoni/Kempton
+UKRI01,46,2b,05,0,120,0,3000,Krugersdorp / Sun City
+ULAD01,46,2b,03,0,120,0,999999,Krugersdorp / Sun City
+UMBL01,39,6a,04,0,120,0,3000,East Cape
+UMNK01,2,1a,03,0,120,0,2000,Pretoria Central
+UMOT01,25,11b,06C,0,120,0,5000,Ermelo / Piet Retief
+UMTB01,41,10a,02,0,120,0,3000,Durban
+UNAD01,49,10a,02,0,30,0,3000,Durban
+UNET01,30,7a,05,0,120,0,15000,Gauteng N - Sandton
+UNXM02,25,11b,06,0,120,0,2500,Ermelo / Piet Retief
+UPHN01,40,6b,04,0,120,0,999999,West Cape
+URAB01,39,6a,02,0,120,0,2500,East Cape
+UROX01,45,2a,06,0,120,0,2500,Vaal Triangle
+UROX02,16,1c,03,0,120,0,3000,Pretoria East
+USOT01,43,3a,06,0,120,0,3000,Soweto/Lenasia
+USOT03,41,10a,02,0,120,0,2000,Durban
+USOT07,41,10a,02C,0,120,0,2000,Durban
+USOT08,41,10a,02,0,120,0,1500,Durban
+USTT01,4,1b,01,0,120,0,999999,Pretoria North/South/West
+USTT02,4,1b,01,0,30,12,999999,Pretoria North/South/West
+UTAN01,2,1a,03,0,120,0,2000,Pretoria Central
+UTAN02,49,10a,02,0,120,0,2000,Durban
+UTSE01,14,3b,06,0,120,0,0,Johannesburg CBD
+UYOR01,29,5a,06,0,120,0,999999,Botswana and Exports
+UYOR02,29,5a,06,0,60,0,999999,Botswana and Exports
+VCAE01,41,10a,02,0,120,0,1000,Durban
+VDAE02,31,8a,06,0,120,0,0,Gauteng E - Alberton/Benoni/Kempton
+VDAI02,30,7a,05,0,120,0,4000,Gauteng N - Sandton
+VDAI03,39,6a,04,0,120,5,4000,East Cape
+VDEO01,49,10a,02,0,120,0,2000,Durban
+VDII01,30,7a,05,0,120,0,2000,Gauteng N - Sandton
+VGOE02,40,6b,04C,0,120,0,4000,West Cape
+VGOE04,49,10a,02,0,120,0,7500,Durban
+VGOE06,41,10a,02,0,120,0,1500,Durban
+VGOE07,41,10a,02,0,120,0,2000,Durban
+VGOI02,41,10a,02,0,120,0,500,Durban
+VIRI01,39,6a,04,0,120,0,15000,East Cape
+VLEI02,30,7a,05C,0,120,0,5000,Gauteng N - Sandton
+VLEI03,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+VLEY01,46,2b,05,0,120,0,7500,Krugersdorp / Sun City
+VRIO01,32,7b,05C,0,120,0,3000,Gauteng N - Randburg/Rivonia
+VSAV01,37,11a,03,0,120,0,999999,Free State / Lesotho
+WCEA01,25,11b,02,0,120,0,5000,Ermelo / Piet Retief
+WCOA01,40,6b,04C,0,120,0,3000,West Cape
+WDEI01,30,7a,05,0,120,0,2000,Gauteng N - Sandton
+WDEI02,39,6a,04,0,120,0,20000,East Cape
+WGOA01,18,4a,07,0,120,0,500,Pietersburg / Potgietersrus
+WHOE01,40,6b,04C,0,120,0,5000,West Cape
+WKHE01,19,4b,03,0,120,0,10000,Nelspruit / Tzaneen
+WLAR03,25,11b,02,0,120,0,5000,Ermelo / Piet Retief
+WLEI01,49,10a,02,0,120,0,6000,Durban
+WLOE01,4,1b,03,0,120,0,2000,Pretoria North/South/West
+WMAE01,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+WNEB01,40,6b,04,0,120,0,1000,West Cape
+WNEC01,43,3a,06,0,30,0,2500,Soweto/Lenasia
+WNEL01,30,7a,STOCK,0,120,0,0,Gauteng N - Sandton
+WNEL03,14,3b,06,0,120,0,0,Johannesburg CBD
+WNEV01,31,8a,06,0,120,0,3000,Gauteng E - Alberton/Benoni/Kempton
+WNEW01,33,1d,03,0,120,0,4000,Pretoria
+WNKA01,31,8a,06,0,120,0,5000,Gauteng E - Alberton/Benoni/Kempton
+WPOE01,32,7b,05,0,120,0,2000,Gauteng N - Randburg/Rivonia
+XFOY01,30,7a,05,0,120,0,999999,Gauteng N - Sandton
+XTAI01,45,2a,06,0,120,0,5000,Vaal Triangle
+YBIE01,41,10a,02,0,120,0,5000,Durban
+YCRS02,31,8a,06,0,30,0,5000,Gauteng E - Alberton/Benoni/Kempton
+YDES01,37,11a,03,0,120,0,15000,Free State / Lesotho
+YDRO01,19,4b,03,0,120,0,7500,Nelspruit / Tzaneen
+YKAE01,46,2b,05,0,120,0,4000,Krugersdorp / Sun City
+YKAE02,43,3a,05,0,120,0,5000,Soweto/Lenasia
+YKAE03,30,7a,05,0,120,0,3000,Gauteng N - Sandton
+YKNS01,39,6a,04,0,120,0,6000,East Cape
+YLAC01,39,6a,02,0,120,0,2000,East Cape
+YMAA01,41,10a,02,0,120,0,5000,Durban
+YMAA03,41,10a,02,0,120,0,8000,Durban
+YMAF02,36,7c,05,0,120,0,1000,Gauteng N - Eastgate/Norwood/Midrand
+YMAO01,46,2b,05,0,120,0,2000,Krugersdorp / Sun City
+YMEE01,31,8a,06,0,120,0,2000,Gauteng E - Alberton/Benoni/Kempton
+YMEE02,2,1a,03,0,120,0,4000,Pretoria Central
+YMEE04,29,5a,01EXP,0,120,0,4000,Botswana and Exports
+YMEE05,30,7a,05,0,120,0,30000,Gauteng N - Sandton
+YMEE07,46,2b,03,0,120,0,10000,Krugersdorp / Sun City
+YNAA01,41,10a,02,0,120,0,3000,Durban
+YRAN01,39,6a,04,0,120,0,3000,East Cape
+YREN01,40,6b,04,0,120,0,1000,West Cape
+YREN03,33,1d,03C,0,30,0,2000,Pretoria
+YRUS01,25,11b,06,0,120,0,4000,Ermelo / Piet Retief
+YSTL02,41,10a,02,0,120,0,2000,Durban
+YSTL03,41,10a,02,0,120,0,2000,Durban
+YTAL03,34,1e,03,0,120,0,5000,Witbank/Middelburg
+ZBOE01,4,1b,01,0,120,0,999999,Pretoria North/South/West
+ZDEI01,32,7b,05,0,120,0,10000,Gauteng N - Randburg/Rivonia
+ZDOE01,30,7a,05,0,120,0,10000,Gauteng N - Sandton
+ZHAY02,19,4b,03,0,120,0,2000,Nelspruit / Tzaneen
+ZMAU01,37,11a,03,0,120,0,0,Free State / Lesotho
+ZNAE01,46,2b,05,0,120,0,30000,Krugersdorp / Sun City
+ZNAO01,43,3a,06,0,120,0,2500,Soweto/Lenasia

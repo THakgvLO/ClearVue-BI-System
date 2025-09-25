@@ -1,0 +1,9 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore temp files
+*.tmp
+*.log
