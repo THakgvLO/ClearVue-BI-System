@@ -1,42 +1,62 @@
+# C:\clearvue-bi-system\etl_scripts\batch_etl\transform_supplier.py
+
 import logging
-try:
-    import pandas as pd
-except ImportError:
-    logging.error("pandas module not found. Please install it using 'pip install pandas'")
-    raise
+import pandas as pd
 from datetime import datetime, timedelta
+import os # Import the os module
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Define file paths relative to etl_scripts/batch_etl/
-DATA_DIR = "../raw_data/"
+# Get the directory of the current script file
+# This is the directory: C:\clearvue-bi-system\etl_scripts\batch_etl\
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
-# Helper function to convert Excel serial date to YYYY-MM-DD
-def excel_to_date(serial):
-    try:
-        base_date = datetime(1899, 12, 30)  # Excel 1900 date system
-        return (base_date + timedelta(days=serial)).strftime("%Y-%m-%d")
-    except Exception as e:
-        logging.error(f"Error converting date {serial}: {e}")
-        return None
+# Define the path to the raw_data directory, which is two levels up from SCRIPT_DIR
+# We want to go from ...\batch_etl\ to ...\raw_data\
+RAW_DATA_PATH = os.path.join(SCRIPT_DIR, '..', '..', 'raw_data')
 
-# Helper function to clean supplier descriptions
+# 💡 FIX: Helper function to clean supplier descriptions MUST be defined here
+# C:\clearvue-bi-system\etl_scripts\batch_etl\transform_supplier.py (FINAL clean_supplier_desc)
+
 def clean_supplier_desc(desc):
     try:
-        if desc.startswith("DR"):
-            shipment = desc.replace("DR ", "").replace("purch order ", "").strip()
+        if isinstance(desc, str) and desc.startswith("DR"):
+            
+            # Check for "DR" exactly (with optional surrounding whitespace)
+            if desc.strip() == "DR":
+                 shipment = ""
+            else:
+                 # Standard cleaning for "DR " (with space) or "DR something"
+                 # 1. Remove "DR " (with space) or just "DR" from the start
+                 if desc.startswith("DR "):
+                     shipment = desc.replace("DR ", "", 1)
+                 else:
+                     shipment = desc[2:]
+                 
+                 # 2. Remove "purch order " and strip whitespace
+                 shipment = shipment.replace("purch order ", "", 1).strip()
+            
+            # Return empty list if 'shipment' is an empty string
             return {"name": "DR Supplier", "shipmentDetails": [shipment] if shipment else []}
+            
         return {"name": desc, "shipmentDetails": []}
     except Exception as e:
         logging.error(f"Error cleaning supplier desc {desc}: {e}")
         return {"name": desc, "shipmentDetails": []}
 
+# --------------------------------------------------------------------------------
+
 # Step 1: Extract - Load Excel files from raw_data/
 try:
-    suppliers_df = pd.read_excel(f"{DATA_DIR}Suppliers.xlsx")
-    headers_df = pd.read_excel(f"{DATA_DIR}Purchases Headers.xlsx")
-    lines_df = pd.read_excel(f"{DATA_DIR}Purchases Lines.xlsx")
+    # Use os.path.join to build the final, correct, absolute file path
+    suppliers_path = os.path.join(RAW_DATA_PATH, 'Suppliers.xlsx')
+    headers_path = os.path.join(RAW_DATA_PATH, 'Purchases Headers.xlsx')
+    lines_path = os.path.join(RAW_DATA_PATH, 'Purchases Lines.xlsx')
+    
+    suppliers_df = pd.read_excel(suppliers_path)
+    headers_df = pd.read_excel(headers_path)
+    lines_df = pd.read_excel(lines_path)
     logging.info("Successfully loaded Excel files")
 except FileNotFoundError as e:
     logging.error(f"File not found: {e}")
@@ -65,13 +85,19 @@ supplier_lookup = {
 # Step 3: Transform - Clean Purchases Headers
 
 # Convert the column to datetime objects, then format to string YYYY-MM-DD
-headers_df['purchaseDate'] = pd.to_datetime( headers_df['PURCH_DATE'], errors='coerce').dt.strftime('%Y-%m-%d')
+#  REQUIRED FIX: Add unit and origin for Excel date compatibility
+# are processed with 'unit' and 'origin', allowing existing datetimes to be coerced.
+headers_df['purchaseDate'] = pd.to_datetime(
+    # Convert to numeric; non-numeric (i.e., existing datetimes) will become NaT momentarily
+    pd.to_numeric(headers_df['PURCH_DATE'], errors='coerce'), 
+    unit='D', 
+    origin='1899-12-30',
+    errors='coerce'
+).dt.strftime('%Y-%m-%d')
+
 
 # FINANCIAL_PERIOD should be derived from the formatted string
-# Note: Use .str to access string methods on the Pandas Series
 headers_df['financialPeriod'] = headers_df['purchaseDate'].str.replace("-", "").str[:6]
-
-# Validate SUPPLIER_CODE... (rest of step 3)
 
 # Validate SUPPLIER_CODE
 invalid_suppliers = headers_df[~headers_df['SUPPLIER_CODE'].isin(supplier_lookup.keys())]
@@ -79,24 +105,38 @@ if not invalid_suppliers.empty:
     logging.warning(f"Invalid supplier codes found: {invalid_suppliers['SUPPLIER_CODE'].tolist()}")
 
 # Step 4: Transform - Clean Purchases Lines
-lines_df['totalCost'] = lines_df['QUANTITY'] * lines_df['UNIT_COST_PRICE']
-discrepancies = lines_df[abs(lines_df['totalCost'] - lines_df['TOTAL_LINE_COST']) > 0.01]
+
+# 1. Calculate the new total cost, placing it in a temporary column
+lines_df['calculatedCost'] = lines_df['QUANTITY'] * lines_df['UNIT_COST_PRICE']
+
+# 2. Check for discrepancies against the original TOTAL_LINE_COST
+discrepancies = lines_df[abs(lines_df['calculatedCost'] - lines_df['TOTAL_LINE_COST']) > 0.01]
+
 if not discrepancies.empty:
     logging.warning(f"Cost discrepancies in {discrepancies['PURCH_DOC_NO'].tolist()}")
-    lines_df['TOTAL_LINE_COST'] = lines_df['totalCost']  # Correct discrepancies
+    # Correct the original column value with the calculated value
+    lines_df['TOTAL_LINE_COST'] = lines_df['calculatedCost']
 
-#CLean up calculatedCost column
-lines_df = lines_df.drop(columns=['calculatedCost'],errors='ignore')
-# Rename fields for consistency
+# 3. Drop the temporary calculated cost column
+lines_df = lines_df.drop(columns=['calculatedCost'], errors='ignore')
+
+# 4. Rename fields for consistency. 
 lines_df = lines_df.rename(columns={
     'INVENTORY_CODE': 'productID',
     'QUANTITY': 'quantity',
     'UNIT_COST_PRICE': 'unitCost',
-    'TOTAL_LINE_COST': 'totalCost'
+    'TOTAL_LINE_COST': 'totalCost' # Now holds the corrected value
 })
 
-#Explicily drop the old ro prevent duplication warnings
-lines_df = lines_df.drop(columns=['INVENTORY_CODE','QUANTITY','UNIT_COST_PRICE','TOTAL_LINE_COST'],errors='ignore')
+# 5. Explicitly select only the desired columns to remove all old and auxiliary columns
+lines_df = lines_df[[
+    'PURCH_DOC_NO', 
+    'productID', 
+    'quantity', 
+    'unitCost', 
+    'totalCost'
+]]
+
 
 # Step 5: Structure - Combine into MongoDB-compatible documents
 purchases_documents = []
