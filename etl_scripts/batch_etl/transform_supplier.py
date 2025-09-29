@@ -171,7 +171,27 @@ for _, header in headers_df.iterrows():
     }
     purchases_documents.append(document)
 
-# Step 6: Output - Log results (for demo, not saving)
-logging.info(f"Generated {len(purchases_documents)} documents")
-for doc in purchases_documents[:1]:  # Show one example
-    logging.info(doc)
+
+# Step 6: Load - Save the final documents to a JSON file
+import json
+from pathlib import Path
+# No need for pandas imports here, as we are saving the raw list of dicts.
+
+# Define the output directory (e.g., in a new 'clean_data' folder)
+OUTPUT_DIR = Path(SCRIPT_DIR) / '..' / '..' / 'clean_data'
+OUTPUT_DIR.mkdir(exist_ok=True) # Create the directory if it doesn't exist
+
+# Define the output file name
+OUTPUT_FILE = OUTPUT_DIR / 'purchases_clean.json' 
+
+try:
+    with open(OUTPUT_FILE, 'w') as f:
+        # json.dump serializes the list of dictionaries
+        # indent=4 makes the JSON human-readable and easy to inspect
+        json.dump(purchases_documents, f, indent=4)
+
+    logging.info(f"Successfully saved {len(purchases_documents)} MongoDB documents to: {OUTPUT_FILE}")
+
+except Exception as e:
+    logging.error(f"Error saving JSON file: {e}")
+
