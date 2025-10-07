@@ -1,7 +1,7 @@
-import pandas as pd raw_data\Payment Header.xlsxraw_data\Payment Header.xlsx
+import pandas as pd 
 
-payment_header = pd.read_excel("raw_data\Payment Header.xlsx",sheet_name="Payment_Header")
-payment_lines = pd.read_excel("raw_data\Payment Lines.xlsx",sheet_name="Payment_Lines")
+payment_header = pd.read_excel(r"raw_data/Payment Header.xlsx",sheet_name="Payment_Header")
+payment_lines = pd.read_excel(r"raw_data/Payment Lines.xlsx",sheet_name="Payment_Lines")
 
 # Clean Payment  file
 payment_header = payment_header.drop_duplicates()
@@ -41,7 +41,7 @@ age_df["CONSISTENT_PAYMENTS"] = age_df["TOTAL_DUE"].round(2) == age_df["BUCKET_S
 
 
 #Cleaning Customer Account Parameters
-custAcc_df = pd.read_excel("raw_data\Customer Account Parameters.xlsx", sheet_name="Customer_Account_Parameters")
+custAcc_df = pd.read_excel(r"raw_data/Customer Account Parameters.xlsx", sheet_name="Customer_Account_Parameters")
 
 # Remove duplicates
 custAcc_df = custAcc_df.drop_duplicates()

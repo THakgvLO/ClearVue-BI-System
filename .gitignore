@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+.gitignore
 __pycache__/
 *.py[cod]
 *$py.class
@@ -16,7 +17,6 @@ venv.bak/
 
 # Data folders (raw, clean, processed)
 raw_data/
-clean_data/
 processed_data/
 data/
 Data/
