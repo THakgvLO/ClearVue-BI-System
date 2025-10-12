@@ -1,0 +1,37 @@
+CCAT_CODE,CCAT_DESC
+1,Internal Accounts
+11,Operations (Stock)
+12,Sample Operational Accounts
+13,Retail
+14,Johannesburg CBD
+16,Pretoria East
+18,Pietersburg/Potgietersrus
+19,Nelspruit / Tzaneen
+2,Pretoria Central
+20,Inactive Accounts
+21,Inactive Accounts
+25,Ermelo/Piet Retief
+27,Rustenburg/Brits
+28,Botswana (Trip)
+29,Botswana (Exports)
+3,Retail - Specialty Stores
+30,Gauteng North - Sandton
+31,Gauteng East
+32,Gauteng North - Randburg/Rivonia
+33,Pretoria
+34,Witbank/Middelburg (Mpumalanga)
+36,Gauteng North - Eastgate/Norwood/Midrand
+37,Free State
+39,Eastern Cape
+4,Pretoria North/South /West
+40,Western Cape/Cape Town
+41,KZN/DBN
+42,Midlands
+43,Soweto/Lenasia
+45,Vaal Triangle
+46,Krugersdorp/Suncity
+47,Potchefstroom/Klerksdorp/Kuruman
+49,KwaZulu-Natal/Durban
+5,Operations (Consignment)
+6,Operations (Advertising)
+7,Retail - Department Store
