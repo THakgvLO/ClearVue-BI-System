@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 .gitignore
 __pycache__/
@@ -93,14 +92,3 @@ copilot-logs/
 output/
 logs/
 backup/
-=======
-# Ignore virtual environment
-.venv/
-
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
-
-# Ignore temp files
-*.tmp
-*.log
->>>>>>> 31ea36e (Add cleaned csv and json files (customer, customer categories, customer account parameters, customer regions) + notebooks (.ipynb) and a .gitignore for Thakgalo's branch)
