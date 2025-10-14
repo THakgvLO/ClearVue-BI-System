@@ -1,24 +1,24 @@
-{"REGION_CODE":"10a","REGION_DESC":"Durban"}
-{"REGION_CODE":"10b","REGION_DESC":"Midlands"}
-{"REGION_CODE":"11a","REGION_DESC":"Free State \/ Lesotho"}
-{"REGION_CODE":"11b","REGION_DESC":"Ermelo \/ Piet Retief"}
-{"REGION_CODE":"1a","REGION_DESC":"Pretoria Central"}
-{"REGION_CODE":"1b","REGION_DESC":"Pretoria North\/South\/West"}
-{"REGION_CODE":"1c","REGION_DESC":"Pretoria East"}
-{"REGION_CODE":"1d","REGION_DESC":"Pretoria"}
-{"REGION_CODE":"1e","REGION_DESC":"Witbank\/Middelburg"}
-{"REGION_CODE":"2a","REGION_DESC":"Vaal Triangle"}
-{"REGION_CODE":"2b","REGION_DESC":"Krugersdorp \/ Sun City"}
-{"REGION_CODE":"2c","REGION_DESC":"Potch \/ Krugersdorp \/ Kuruman"}
-{"REGION_CODE":"2d","REGION_DESC":"Rustenburg"}
-{"REGION_CODE":"3a","REGION_DESC":"Soweto\/Lenasia"}
-{"REGION_CODE":"3b","REGION_DESC":"Johannesburg CBD"}
-{"REGION_CODE":"4a","REGION_DESC":"Pietersburg \/ Potgietersrus"}
-{"REGION_CODE":"4b","REGION_DESC":"Nelspruit \/ Tzaneen"}
-{"REGION_CODE":"5a","REGION_DESC":"Botswana and Exports"}
-{"REGION_CODE":"6a","REGION_DESC":"East Cape"}
-{"REGION_CODE":"6b","REGION_DESC":"West Cape"}
-{"REGION_CODE":"7a","REGION_DESC":"Gauteng N - Sandton"}
-{"REGION_CODE":"7b","REGION_DESC":"Gauteng N - Randburg\/Rivonia"}
-{"REGION_CODE":"7c","REGION_DESC":"Gauteng N - Eastgate\/Norwood\/Midrand"}
-{"REGION_CODE":"8a","REGION_DESC":"Gauteng E - Alberton\/Benoni\/Kempton"}
+{"REGION_CODE":"10a","REGION_DESC":"Durban","PROVINCE":"KwaZulu-Natal"}
+{"REGION_CODE":"10b","REGION_DESC":"Midlands","PROVINCE":"KwaZulu-Natal"}
+{"REGION_CODE":"11a","REGION_DESC":"Free State \/ Lesotho","PROVINCE":"Free State"}
+{"REGION_CODE":"11b","REGION_DESC":"Ermelo \/ Piet Retief","PROVINCE":"Mpumalanga"}
+{"REGION_CODE":"1a","REGION_DESC":"Pretoria Central","PROVINCE":"Gauteng"}
+{"REGION_CODE":"1b","REGION_DESC":"Pretoria North\/South\/West","PROVINCE":"Gauteng"}
+{"REGION_CODE":"1c","REGION_DESC":"Pretoria East","PROVINCE":"Gauteng"}
+{"REGION_CODE":"1d","REGION_DESC":"Pretoria","PROVINCE":"Gauteng"}
+{"REGION_CODE":"1e","REGION_DESC":"Witbank\/Middelburg","PROVINCE":"Mpumalanga"}
+{"REGION_CODE":"2a","REGION_DESC":"Vaal Triangle","PROVINCE":"Gauteng"}
+{"REGION_CODE":"2b","REGION_DESC":"Krugersdorp \/ Sun City","PROVINCE":"North West"}
+{"REGION_CODE":"2c","REGION_DESC":"Potch \/ Krugersdorp \/ Kuruman","PROVINCE":"North West"}
+{"REGION_CODE":"2d","REGION_DESC":"Rustenburg","PROVINCE":"North West"}
+{"REGION_CODE":"3a","REGION_DESC":"Soweto\/Lenasia","PROVINCE":"Gauteng"}
+{"REGION_CODE":"3b","REGION_DESC":"Johannesburg CBD","PROVINCE":"Gauteng"}
+{"REGION_CODE":"4a","REGION_DESC":"Pietersburg \/ Potgietersrus","PROVINCE":"Limpopo"}
+{"REGION_CODE":"4b","REGION_DESC":"Nelspruit \/ Tzaneen","PROVINCE":"Mpumalanga"}
+{"REGION_CODE":"5a","REGION_DESC":"Botswana and Exports","PROVINCE":"Export"}
+{"REGION_CODE":"6a","REGION_DESC":"East Cape","PROVINCE":"Eastern Cape"}
+{"REGION_CODE":"6b","REGION_DESC":"West Cape","PROVINCE":"Western Cape"}
+{"REGION_CODE":"7a","REGION_DESC":"Gauteng N - Sandton","PROVINCE":"Gauteng"}
+{"REGION_CODE":"7b","REGION_DESC":"Gauteng N - Randburg\/Rivonia","PROVINCE":"Gauteng"}
+{"REGION_CODE":"7c","REGION_DESC":"Gauteng N - Eastgate\/Norwood\/Midrand","PROVINCE":"Gauteng"}
+{"REGION_CODE":"8a","REGION_DESC":"Gauteng E - Alberton\/Benoni\/Kempton","PROVINCE":"Gauteng"}

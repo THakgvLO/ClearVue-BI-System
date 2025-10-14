@@ -1,25 +1,25 @@
-REGION_CODE,REGION_DESC
-10a,Durban
-10b,Midlands
-11a,Free State / Lesotho
-11b,Ermelo / Piet Retief
-1a,Pretoria Central
-1b,Pretoria North/South/West
-1c,Pretoria East
-1d,Pretoria
-1e,Witbank/Middelburg
-2a,Vaal Triangle
-2b,Krugersdorp / Sun City
-2c,Potch / Krugersdorp / Kuruman
-2d,Rustenburg
-3a,Soweto/Lenasia
-3b,Johannesburg CBD
-4a,Pietersburg / Potgietersrus
-4b,Nelspruit / Tzaneen
-5a,Botswana and Exports
-6a,East Cape
-6b,West Cape
-7a,Gauteng N - Sandton
-7b,Gauteng N - Randburg/Rivonia
-7c,Gauteng N - Eastgate/Norwood/Midrand
-8a,Gauteng E - Alberton/Benoni/Kempton
+REGION_CODE,REGION_DESC,PROVINCE
+10a,Durban,KwaZulu-Natal
+10b,Midlands,KwaZulu-Natal
+11a,Free State / Lesotho,Free State
+11b,Ermelo / Piet Retief,Mpumalanga
+1a,Pretoria Central,Gauteng
+1b,Pretoria North/South/West,Gauteng
+1c,Pretoria East,Gauteng
+1d,Pretoria,Gauteng
+1e,Witbank/Middelburg,Mpumalanga
+2a,Vaal Triangle,Gauteng
+2b,Krugersdorp / Sun City,North West
+2c,Potch / Krugersdorp / Kuruman,North West
+2d,Rustenburg,North West
+3a,Soweto/Lenasia,Gauteng
+3b,Johannesburg CBD,Gauteng
+4a,Pietersburg / Potgietersrus,Limpopo
+4b,Nelspruit / Tzaneen,Mpumalanga
+5a,Botswana and Exports,Export
+6a,East Cape,Eastern Cape
+6b,West Cape,Western Cape
+7a,Gauteng N - Sandton,Gauteng
+7b,Gauteng N - Randburg/Rivonia,Gauteng
+7c,Gauteng N - Eastgate/Norwood/Midrand,Gauteng
+8a,Gauteng E - Alberton/Benoni/Kempton,Gauteng
