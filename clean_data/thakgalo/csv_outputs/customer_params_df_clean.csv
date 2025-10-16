@@ -1,0 +1,1091 @@
+CUSTOMER_NUMBER,PARAMETER,PARAMETER_GROUP
+AACJ01,Closed,Account Status
+AACJC1,Closed,Account Status
+AACJC2,Promotion,Marketing
+AAVN01,Closed,Account Status
+ABLA01,Closed,Account Status
+ABLE01,Closed,Account Status
+ACHBC1,Consignment,Operations
+ACHBC1,Promotional Stand,Retail Format
+ACHVC1,Consignment,Operations
+ACHVOC,Consignment,Operations
+ACLS02,Trading Account,Account Status
+ACLSC1,Consignment,Operations
+ACLSOC,Closed,Account Status
+ADIMOC,Consignment,Operations
+AFRM03,Closed,Account Status
+AFRMOC,Consignment,Operations
+AFRN01,Closed,Account Status
+AFRN02,Closed,Account Status
+AFRN05,Trading Account,Account Status
+AFRNOC,Consignment,Operations
+AGRNC1,Consignment,Operations
+AGRY01,Trading Account,Account Status
+AGRYCO,Consignment,Operations
+AGUROC,Closed,Account Status
+AGUROC,Consignment,Operations
+AICR03,Closed,Account Status
+AICR09,Closed,Account Status
+AICRC1,Consignment,Operations
+AICROC,Consignment,Operations
+AKER02,Closed,Account Status
+AKHN07,Trading Account,Account Status
+AKHNC1,Consignment,Operations
+AKHNOC,Consignment,Operations
+AMARC1,Consignment,Operations
+AMI02,Trading Account,Account Status
+AMIC1,Consignment,Operations
+AMIOC,Closed,Account Status
+AMIOC,Consignment,Operations
+AMIOOC,Consignment,Operations
+AMKNOC,Consignment,Operations
+AREL03,Closed,Account Status
+ARELCO,Consignment,Operations
+ARELWM,Promotion,Marketing
+ASEPOC,Consignment,Operations
+ASHN01,Trading Account,Account Status
+ASHNC1,Consignment,Operations
+ASHNC1,Promotional Stand,Retail Format
+ASHNOC,Consignment,Operations
+ASMROC,Consignment,Operations
+ASTL01,Trading Account,Account Status
+ASTLC1,Consignment,Operations
+ASTLOC,Closed,Account Status
+ASTN01,Promotional Stand,Retail Format
+ASTN07,Closed,Account Status
+ASTNC1,Promotional Stand,Retail Format
+ASTNC2,Consignment,Operations
+ASTNC2,Promotional Stand,Retail Format
+ASTNC3,Promotion,Marketing
+ASTNOC,Closed,Account Status
+ATHT01,Closed,Account Status
+ATYL02,Closed,Account Status
+ATYLC1,Consignment,Operations
+ATYLC1,Promotional Stand,Retail Format
+BABR02,Closed,Account Status
+BGAO01,Closed,Account Status
+BHAEOC,Promotional Stand,Retail Format
+BJMOC,Consignment,Operations
+BJOI01,Closed,Account Status
+BKOROC,Consignment,Operations
+BROA01,Trading Account,Account Status
+BROA02,Closed,Account Status
+BROAC1,Consignment,Operations
+BROAOC,Consignment,Operations
+BURA01,Trading Account,Account Status
+BURAOC,Consignment,Operations
+CADOC1,Promotional Stand,Retail Format
+CADOOC,Consignment,Operations
+CADOOC,Promotional Stand,Retail Format
+CBAH01,Closed,Account Status
+CBAH02,Closed,Account Status
+CBUH01,Trading Account,Account Status
+CBUH02,Trading Account,Account Status
+CBUH03,Closed,Account Status
+CBUH2C,Closed,Account Status
+CBUH3C,Closed,Account Status
+CBUHC1,Consignment,Operations
+CBUHC2,Consignment,Operations
+CBUHOC,Closed,Account Status
+CKOKOC,Consignment,Operations
+CNIBCO,Consignment,Operations
+CNIHC1,Consignment,Operations
+CNIHCO,Promotion,Marketing
+CNIHOC,Consignment,Operations
+COCHC2,Consignment,Operations
+COCHC3,Consignment,Operations
+COCHC4,Consignment,Operations
+COCHC5,Promotion,Marketing
+COCHCO,Consignment,Operations
+COCHOC,Consignment,Operations
+CPAEOC,Consignment,Operations
+CSPEN1,Consignment,Operations
+CSPEN1,Promotional Stand,Retail Format
+CSPENT,Consignment,Operations
+CZOC01,Closed,Account Status
+DBEW01,Closed,Account Status
+DBOEC,Consignment,Operations
+DBOEC,Promotional Stand,Retail Format
+DBOEC1,Consignment,Operations
+DBOEC1,Promotional Stand,Retail Format
+DBUG02,Closed,Account Status
+DDA01,Trading Account,Account Status
+DDAAC1,Promotion,Marketing
+DDAAOC,Consignment,Operations
+DFESOC,Promotion,Marketing
+DGS01,Closed,Account Status
+'DGSOC,Consignment,Operations
+DHYRC1,Consignment,Operations
+DHYRC1,Promotional Stand,Retail Format
+DHYRC2,Consignment,Operations
+DHYRC3,Consignment,Operations
+DHYRC3,Promotional Stand,Retail Format
+DHYRC4,Consignment,Operations
+DHYRC4,Promotional Stand,Retail Format
+DHYRC5,Consignment,Operations
+DHYRC6,Consignment,Operations
+DJAEOC,Consignment,Operations
+DLEWC1,Promotional Stand,Retail Format
+DMCO0C,Consignment,Operations
+DMCOC1,Consignment,Operations
+DMCOC2,Consignment,Operations
+DMCOC2,Promotional Stand,Retail Format
+DMEI01,Trading Account,Account Status
+DMEI04,Closed,Account Status
+DMEI09,Closed,Account Status
+DMEI12,Closed,Account Status
+DMEIC1,Consignment,Operations
+DMEIC1,Promotional Stand,Retail Format
+DMEIC2,Promotional Stand,Retail Format
+DMEIOC,Closed,Account Status
+DMIR01,Trading Account,Account Status
+DMIRC1,Consignment,Operations
+DMIROC,Consignment,Operations
+DRAUOC,Consignment,Operations
+DREDOC,Consignment,Operations
+DREDOC,Promotion,Marketing
+DVIA01,Trading Account,Account Status
+DVIAC1,Promotional Stand,Retail Format
+DVIAOC,Consignment,Operations
+DVIE01,Closed,Account Status
+DVOAC1,Closed,Account Status
+DVOAOC,Closed,Account Status
+EALX03,Trading Account,Account Status
+EALXC1,Closed,Account Status
+EALXC2,Consignment,Operations
+EALXC2,Promotional Stand,Retail Format
+EALXOC,Closed,Account Status
+EBLC01,Closed,Account Status
+EBLW01,Closed,Account Status
+EBLW02,Closed,Account Status
+EBRE01,Closed,Account Status
+EBRW01,Closed,Account Status
+ECHTCO,Consignment,Operations
+ECOT01,Closed,Account Status
+ECOTOC,Consignment,Operations
+ECRW01,Closed,Account Status
+ECRWC1,Closed,Account Status
+ECRWOC,Closed,Account Status
+EDIPOC,Consignment,Operations
+EEDN01,Closed,Account Status
+EEYB01,Trading Account,Account Status
+EEYBOC,Consignment,Operations
+EEYC1,Consignment,Operations
+EEYCC2,Closed,Account Status
+EEYCC3,Consignment,Operations
+EEYCC5,Consignment,Operations
+EEYCC6,Consignment,Operations
+EEYCOC,Closed,Account Status
+EEYD01,Closed,Account Status
+EEYE02,Trading Account,Account Status
+EEYEXC,Consignment,Operations
+EEYLOC,Closed,Account Status
+EEYLOC,Consignment,Operations
+EEYOC,Consignment,Operations
+EEYP,Promotion,Marketing
+EEYPC2,Consignment,Operations
+EEYPRF,Consignment,Operations
+EEYPRF,Promotional Stand,Retail Format
+EEYTC1,Consignment,Operations
+EEYTC2,Consignment,Operations
+EEYTC3,Consignment,Operations
+EEYW01,Closed,Account Status
+EEYW05,Closed,Account Status
+EEYZ01,Closed,Account Status
+EGRWC1,Consignment,Operations
+EGRWC1,Promotional Stand,Retail Format
+EGRWCO,Consignment,Operations
+EIDA01,Closed,Account Status
+ENIMC1,Consignment,Operations
+ENIMOC,Consignment,Operations
+EOBRC0,Consignment,Operations
+EPERC1,Consignment,Operations
+EPERC2,Consignment,Operations
+EPERC2,Promotional Stand,Retail Format
+EPERC3,Consignment,Operations
+EPERC3,Promotional Stand,Retail Format
+EPEROC,Closed,Account Status
+EPRT05,Trading Account,Account Status
+EPRTC1,Consignment,Operations
+EPRTOC,Consignment,Operations
+EROT01,Trading Account,Account Status
+EROTC1,Promotional Stand,Retail Format
+EROTOC,Consignment,Operations
+ESEB01,Closed,Account Status
+ESEDC1,Consignment,Operations
+ESEDC1,Promotional Stand,Retail Format
+ESHR07,Trading Account,Account Status
+ESHRC1,Consignment,Operations
+ESHRC2,Consignment,Operations
+ESHROC,Consignment,Operations
+ESIFC1,Consignment,Operations
+ESIFOC,Consignment,Operations
+ESP106,Closed,Account Status
+ESP112,Trading Account,Account Status
+ESP131,Closed,Account Status
+ESP148,Trading Account,Account Status
+ESP149,Trading Account,Account Status
+ESPBEN,Consignment,Operations
+ESPBRI,Consignment,Operations
+ESPBRM,Consignment,Operations
+ESPC07,Closed,Account Status
+ESPC08,Closed,Account Status
+ESPC24,Closed,Account Status
+ESPC27,Closed,Account Status
+ESPC32,Closed,Account Status
+ESPC37,Closed,Account Status
+ESPC60,Closed,Account Status
+ESPC68,Trading Account,Account Status
+ESPC71,Trading Account,Account Status
+ESPC72,Closed,Account Status
+ESPC73,Closed,Account Status
+ESPC75,Closed,Account Status
+ESPC79,Closed,Account Status
+ESPC97,Closed,Account Status
+ESPCAV,Consignment,Operations
+ESPCBO,Consignment,Operations
+ESPCBS,Consignment,Operations
+ESPCC0,Closed,Account Status
+ESPCC1,Closed,Account Status
+ESPCC2,Consignment,Operations
+ESPCC3,Closed,Account Status
+ESPCC4,Consignment,Operations
+ESPCC5,Closed,Account Status
+ESPCC6,Closed,Account Status
+ESPCC7,Closed,Account Status
+ESPCC8,Closed,Account Status
+ESPCC9,Closed,Account Status
+ESPCCA,Closed,Account Status
+ESPCCB,Consignment,Operations
+ESPCCC,Consignment,Operations
+ESPCCE,Consignment,Operations
+ESPCCG,Closed,Account Status
+ESPCCI,Consignment,Operations
+ESPCCK,Consignment,Operations
+ESPCCL,Consignment,Operations
+ESPCCO,Closed,Account Status
+ESPCCR,Consignment,Operations
+ESPCCS,Consignment,Operations
+ESPCCT,Consignment,Operations
+ESPCCV,Consignment,Operations
+ESPCCW,Consignment,Operations
+ESPCEG,Consignment,Operations
+ESPCEN,Consignment,Operations
+ESPCEN,Promotional Stand,Retail Format
+ESPCFR,Consignment,Operations
+ESPCGA,Consignment,Operations
+ESPCGE,Consignment,Operations
+ESPCGR,Consignment,Operations
+ESPCHM,Consignment,Operations
+ESPCHS,Consignment,Operations
+ESPCHS,Promotional Stand,Retail Format
+ESPCKE,Closed,Account Status
+ESPCKI,Closed,Account Status
+ESPCKN,Consignment,Operations
+ESPCKW,Consignment,Operations
+ESPCKY,Consignment,Operations
+ESPCLB,Consignment,Operations
+ESPCM1,Closed,Account Status
+ESPCMK,Consignment,Operations
+ESPCMM,Consignment,Operations
+ESPCMO,Consignment,Operations
+ESPCMS,Promotional Stand,Retail Format
+ESPCN1,Consignment,Operations
+ESPCNL,Consignment,Operations
+ESPCNL,Promotional Stand,Retail Format
+ESPCOC,Closed,Account Status
+ESPCPA,Consignment,Operations
+ESPCPB,Consignment,Operations
+ESPCPS,Consignment,Operations
+ESPCRA,Consignment,Operations
+ESPCSG,Consignment,Operations
+ESPCSO,Closed,Account Status
+ESPCSP,Consignment,Operations
+ESPCSP,Promotional Stand,Retail Format
+ESPCST,Consignment,Operations
+ESPCSW,Closed,Account Status
+ESPCTB,Closed,Account Status
+ESPCTC,Consignment,Operations
+ESPCTG,Consignment,Operations
+ESPCTL,Closed,Account Status
+ESPCTS,Consignment,Operations
+ESPCTV,Consignment,Operations
+ESPCVH,Consignment,Operations
+ESPCW,Consignment,Operations
+ESPCWB,Consignment,Operations
+ESPCWE,Closed,Account Status
+ESPCWK,Consignment,Operations
+ESPCWM,Consignment,Operations
+ESPGRA,Consignment,Operations
+ESPGRA,Promotional Stand,Retail Format
+ESPHMS,Consignment,Operations
+ESPKNY,Consignment,Operations
+ESPKNY,Promotional Stand,Retail Format
+ESPKO,Consignment,Operations
+ESPLIN,Consignment,Operations
+ESPNEL,Consignment,Operations
+ESPP14,Consignment,Operations
+ESPPBB,Consignment,Operations
+ESPPBB,Promotional Stand,Retail Format
+ESPSG1,Consignment,Operations
+ESPSOM,Consignment,Operations
+ESPSP1,Consignment,Operations
+ESPSP2,Consignment,Operations
+ESPSTL,Consignment,Operations
+ESPSWT,Consignment,Operations
+ESPTGV,Consignment,Operations
+ESPUTG,Consignment,Operations
+ESPUTG,Promotional Stand,Retail Format
+ESPVIS,Consignment,Operations
+ESPVIS,Promotional Stand,Retail Format
+ESTE01,Trading Account,Account Status
+ESTEC1,Consignment,Operations
+ESTEC1,Promotional Stand,Retail Format
+ESTECO,Consignment,Operations
+ESTI01,Closed,Account Status
+ESTIOC,Consignment,Operations
+ESTL01,Closed,Account Status
+ESTPC1,Consignment,Operations
+ESTPOC,Closed,Account Status
+ESTV01,Closed,Account Status
+ETHE01,Closed,Account Status
+ETHE02,Closed,Account Status
+ETHE04,Consignment,Operations
+ETHL01,Closed,Account Status
+EVIW01,Trading Account,Account Status
+EVIWC1,Consignment,Operations
+EVIWC2,Consignment,Operations
+EVIWC2,Promotional Stand,Retail Format
+EVIWOC,Closed,Account Status
+FMEC2,Consignment,Operations
+FMEOC,Consignment,Operations
+FMOF01,Trading Account,Account Status
+FMOF06,Closed,Account Status
+FMOFC1,Consignment,Operations
+FMOFC2,Consignment,Operations
+FMOFC2,Promotional Stand,Retail Format
+FMOFC3,Consignment,Operations
+FMOFC3,Promotional Stand,Retail Format
+FMOFC4,Consignment,Operations
+FMOFC5,Consignment,Operations
+FMOFC6,Consignment,Operations
+FMOFOC,Closed,Account Status
+FMOFPM,Consignment,Operations
+FMOFPM,Promotional Stand,Retail Format
+GANL01,Closed,Account Status
+GBEG01,Closed,Account Status
+GEDACO,Consignment,Operations
+GEDACO,Promotion,Marketing
+GEDEC1,Consignment,Operations
+GEDEOC,Closed,Account Status
+GEGC1,Consignment,Operations
+GEGOC,Closed,Account Status
+GHIH02,Closed,Account Status
+GHIHOC,Consignment,Operations
+GMAA01,Closed,Account Status
+GMEA01,Closed,Account Status
+GMEA02,Trading Account,Account Status
+GMEAC1,Consignment,Operations
+GMEACO,Consignment,Operations
+GMEAOC,Consignment,Operations
+GSAAOC,Consignment,Operations
+GWAC1,Consignment,Operations
+GWAN01,Trading Account,Account Status
+HCOE01,Closed,Account Status
+HISOC1,Consignment,Operations
+HISOC1,Promotional Stand,Retail Format
+HKAM01,Closed,Account Status
+HKAM02,Trading Account,Account Status
+HKAO4C,Consignment,Operations
+HMAA04,Closed,Account Status
+HMAOOC,Consignment,Operations
+HMOL06,Closed,Account Status
+HRAMFR,Closed,Account Status
+HSCLOC,Consignment,Operations
+HSCN02,Trading Account,Account Status
+HSCNC1,Consignment,Operations
+HSCNCO,Consignment,Operations
+HSCNOC,Closed,Account Status
+HSCO02,Trading Account,Account Status
+HSCOC1,Consignment,Operations
+HSCOC1,Promotional Stand,Retail Format
+HSCOC2,Consignment,Operations
+HSCOC2,Promotional Stand,Retail Format
+HSCOC3,Consignment,Operations
+HSCOOC,Consignment,Operations
+HTSAOC,Consignment,Operations
+HTSEC1,Consignment,Operations
+HTSEC1,Promotional Stand,Retail Format
+HTSECO,Consignment,Operations
+HTSEOC,Consignment,Operations
+HUML01,Trading Account,Account Status
+HUMLOC,Consignment,Operations
+HUMLST,Promotional Stand,Retail Format
+HWALC1,Consignment,Operations
+HWALC2,Consignment,Operations
+HWALC2,Promotional Stand,Retail Format
+HZAEC1,Consignment,Operations
+HZAEC1,Promotional Stand,Retail Format
+IBEN01,Closed,Account Status
+IBRD01,Closed,Account Status
+IBRN01,Closed,Account Status
+IDZNC1,Consignment,Operations
+IDZNC1,Promotional Stand,Retail Format
+IDZNC2,Consignment,Operations
+IERN03,Trading Account,Account Status
+IERNC1,Promotion,Marketing
+IERNOC,Consignment,Operations
+IFAROC,Consignment,Operations
+IFREC1,Consignment,Operations
+IFREOC,Consignment,Operations
+IHEN01,Trading Account,Account Status
+IHENC1,Consignment,Operations
+IHENC2,Closed,Account Status
+IHENC2,Consignment,Operations
+IHENCS,Consignment,Operations
+IHENCS,Promotional Stand,Retail Format
+IHENOC,Consignment,Operations
+IIJEC1,Consignment,Operations
+IIJEC1,Promotional Stand,Retail Format
+IKRE01,Closed,Account Status
+IKRE02,Closed,Account Status
+IKRE04,Closed,Account Status
+IKRT01,Closed,Account Status
+IMEE02,Closed,Account Status
+IMER03,Trading Account,Account Status
+IMERC1,Consignment,Operations
+IMERCO,Promotion,Marketing
+IMEROC,Consignment,Operations
+INAD02,Trading Account,Account Status
+INAD04,Trading Account,Account Status
+INADC1,Consignment,Operations
+INADC2,Closed,Account Status
+INADC3,Promotional Stand,Retail Format
+INADCO,Consignment,Operations
+INADOC,Consignment,Operations
+INADVM,Consignment,Operations
+IOLVC1,Consignment,Operations
+IONOOC,Consignment,Operations
+IPAG01,Closed,Account Status
+IPAG01,Trading Account,Account Status
+IPAG2C,Consignment,Operations
+IPAGC1,Consignment,Operations
+IPAGCO,Consignment,Operations
+IPAGOC,Consignment,Operations
+ISMTC1,Consignment,Operations
+ISMTOC,Consignment,Operations
+ISPL01,Closed,Account Status
+ISPL02,Trading Account,Account Status
+ISPLC1,Consignment,Operations
+ISPLCE,Consignment,Operations
+ISPLCE,Promotional Stand,Retail Format
+ISPLOC,Closed,Account Status
+IWAN01,Closed,Account Status
+IWEN01,Closed,Account Status
+JSEAOC,Consignment,Operations
+KACE01,Closed,Account Status
+KATI01,Closed,Account Status
+KBAEC2,Consignment,Operations
+KBAEC2,Promotional Stand,Retail Format
+KDEAOC,Consignment,Operations
+KJAEC1,Consignment,Operations
+KJAEC1,Promotional Stand,Retail Format
+KKOSC1,Consignment,Operations
+KKOSC1,Promotional Stand,Retail Format
+KMAA02,Trading Account,Account Status
+KMAA03,Closed,Account Status
+KMAAC1,Consignment,Operations
+KMAACO,Consignment,Operations
+KMOH01,Closed,Account Status
+KMOOC1,Consignment,Operations
+KMOOC1,Promotional Stand,Retail Format
+KOAS0C,Closed,Account Status
+KOAS0C,Consignment,Operations
+KOSOOC,Consignment,Operations
+LALI02,Closed,Account Status
+LBAL01,Closed,Account Status
+LBAT01,Closed,Account Status
+LBOL01,Closed,Account Status
+LELEOC,Consignment,Operations
+LFECO,Consignment,Operations
+LFIAOC,Consignment,Operations
+LGIE01,Closed,Account Status
+LGIEOC,Closed,Account Status
+LGIEOC,Consignment,Operations
+LHOLCO,Consignment,Operations
+LLAU01,Closed,Account Status
+LMAAC1,Consignment,Operations
+LMAAOC,Consignment,Operations
+LMEL06,Promotional Stand,Retail Format
+LMELC1,Consignment,Operations
+LMELC2,Promotion,Marketing
+LMELC2,Promotional Stand,Retail Format
+LMELC3,Closed,Account Status
+LMELC3,Consignment,Operations
+LMELC4,Promotional Stand,Retail Format
+LMELC5,Consignment,Operations
+LMELC5,Promotional Stand,Retail Format
+LMELC6,Consignment,Operations
+LMELC6,Promotional Stand,Retail Format
+LMELC7,Consignment,Operations
+LMELC7,Promotional Stand,Retail Format
+LMELOC,Closed,Account Status
+LMEVOC,Consignment,Operations
+LMOD01,Closed,Account Status
+LMODOC,Consignment,Operations
+LMUL10,Closed,Account Status
+LNEOC,Consignment,Operations
+LPIL04,Closed,Account Status
+LSAE01,Closed,Account Status
+LSAE06,Consignment,Operations
+LSOEC3,Consignment,Operations
+LSOEC3,Promotional Stand,Retail Format
+LSOEOC,Consignment,Operations
+LSOEPR,Promotion,Marketing
+LSOO01,Trading Account,Account Status
+LSOOC1,Consignment,Operations
+LSOOOC,Closed,Account Status
+LTIL01,Trading Account,Account Status
+LTILCO,Consignment,Operations
+LTILOC,Consignment,Operations
+LTILOC,Promotional Stand,Retail Format
+LVAJC1,Consignment,Operations
+LVIL01,Closed,Account Status
+LVIL02,Trading Account,Account Status
+LVILC1,Consignment,Operations
+LVILOC,Closed,Account Status
+LWAS01,Closed,Account Status
+LWIC01,Closed,Account Status
+LWIK02,Closed,Account Status
+LWIL02,Closed,Account Status
+LWIL03,Closed,Account Status
+LWIS01,Closed,Account Status
+MASAC1,Consignment,Operations
+MASAC1,Promotional Stand,Retail Format
+MASAOC,Consignment,Operations
+MCAPC1,Consignment,Operations
+MCOA01,Closed,Account Status
+MFEIOC,Consignment,Operations
+MGACO,Consignment,Operations
+MGACO,Promotional Stand,Retail Format
+MGAS01,Trading Account,Account Status
+MLECO,Consignment,Operations
+MLEN01,Trading Account,Account Status
+MLOBC1,Consignment,Operations
+MMOEC1,Consignment,Operations
+MMOEC1,Promotional Stand,Retail Format
+MNAI01,Closed,Account Status
+MOSAOC,Consignment,Operations
+MRAKOC,Closed,Account Status
+MRAU01,Closed,Account Status
+MSAW01,Trading Account,Account Status
+MSAW02,Trading Account,Account Status
+MSAWC1,Consignment,Operations
+MSAWC1,Promotional Stand,Retail Format
+MSAWC2,Consignment,Operations
+NBEM01,Closed,Account Status
+NBET01,Closed,Account Status
+NBOD01,Closed,Account Status
+NBOT01,Closed,Account Status
+NBOT02,Closed,Account Status
+NBOT03,Closed,Account Status
+NCOS01,Closed,Account Status
+NCOS02,Consignment,Operations
+NDUD01,Closed,Account Status
+NJIAC1,Consignment,Operations
+NJIAC1,Promotional Stand,Retail Format
+NJOE03,Closed,Account Status
+NKEYOC,Consignment,Operations
+NKIGOC,Consignment,Operations
+NKOQ01,Trading Account,Account Status
+NKOQC1,Consignment,Operations
+NKOQOC,Closed,Account Status
+NLIK01,Closed,Account Status
+NMAA02,Closed,Account Status
+NMAOC1,Consignment,Operations
+NMAOCC,Consignment,Operations
+NMAOOC,Consignment,Operations
+NMESOC,Consignment,Operations
+NMIG01,Closed,Account Status
+NMIGC1,Consignment,Operations
+NMIGC2,Consignment,Operations
+NMIGC2,Promotional Stand,Retail Format
+NMOEOC,Consignment,Operations
+NPINC1,Consignment,Operations
+NRADC1,Consignment,Operations
+NRADOC,Consignment,Operations
+NRASC1,Consignment,Operations
+NSADOC,Consignment,Operations
+NSUC01,Closed,Account Status
+NSUC10,Promotion,Marketing
+NSUERM,Consignment,Operations
+NSUERM,Promotional Stand,Retail Format
+NSUEYE,Consignment,Operations
+NSUEYE,Promotional Stand,Retail Format
+NSUG02,Closed,Account Status
+NSUG11,Trading Account,Account Status
+NSUG17,Closed,Account Status
+NSUG4U,Promotional Stand,Retail Format
+NSUGC1,Promotional Stand,Retail Format
+NSUGC2,Promotional Stand,Retail Format
+NSUGC4,Closed,Account Status
+NSUGC5,Consignment,Operations
+NSUGC5,Promotional Stand,Retail Format
+NSUGC7,Closed,Account Status
+NSUGC8,Consignment,Operations
+NSUGC9,Promotion,Marketing
+NSUGEG,Consignment,Operations
+NSUGEG,Promotional Stand,Retail Format
+NSUGHT,Consignment,Operations
+NSUGME,Promotional Stand,Retail Format
+NSUGOC,Consignment,Operations
+NSUGSZ,Consignment,Operations
+NSUGZS,Consignment,Operations
+NSUGZS,Promotional Stand,Retail Format
+NSUN01,Closed,Account Status
+NSUO03,Closed,Account Status
+NSUOOC,Closed,Account Status
+NSUOPT,Consignment,Operations
+NSUS08,Closed,Account Status
+NSUSC1,Consignment,Operations
+NSUSOC,Closed,Account Status
+NSUWR1,Consignment,Operations
+NVAA01,Closed,Account Status
+NVABC1,Promotion,Marketing
+NVABCO,Consignment,Operations
+NVABOC,Closed,Account Status
+NVAD02,Closed,Account Status
+NVAD04,Closed,Account Status
+NVAD08,Closed,Account Status
+NVAG02,Closed,Account Status
+NVAG03,Trading Account,Account Status
+NVAG04,Trading Account,Account Status
+NVAGC1,Consignment,Operations
+NVAGC2,Consignment,Operations
+NVAGOC,Closed,Account Status
+NVAM01,Closed,Account Status
+NVAN01,Trading Account,Account Status
+NVAN02,Closed,Account Status
+NVAN03,Closed,Account Status
+NVANC1,Consignment,Operations
+NVANOC,Consignment,Operations
+NVAR02,Closed,Account Status
+NVAR09,Trading Account,Account Status
+NVARC1,Closed,Account Status
+NVARC2,Consignment,Operations
+NVARCO,Consignment,Operations
+NVAROC,Closed,Account Status
+NVAS01,Closed,Account Status
+NVAS04,Closed,Account Status
+NVET01,Closed,Account Status
+NVET02,Closed,Account Status
+NVET03,Closed,Account Status
+NVOR01,Closed,Account Status
+NWIB01,Closed,Account Status
+OAVNC1,Closed,Account Status
+OAVNOC,Closed,Account Status
+OBCP01,Closed,Account Status
+OBHO02,Closed,Account Status
+OBHO03,Trading Account,Account Status
+OBHOC1,Closed,Account Status
+OBHOOC,Consignment,Operations
+OBHOPC,Consignment,Operations
+OBLC01,Closed,Account Status
+OBLCC1,Consignment,Operations
+OBLCOC,Closed,Account Status
+OBOYOC,Consignment,Operations
+OBRW01,Closed,Account Status
+OCLI01,Closed,Account Status
+OCOK01,Closed,Account Status
+OCOK02,Closed,Account Status
+OCOK03,Closed,Account Status
+OEBN01,Closed,Account Status
+OFLRC1,Consignment,Operations
+OFLROC,Consignment,Operations
+OGLBOC,Consignment,Operations
+OGLV01,Closed,Account Status
+OGODC1,Consignment,Operations
+OGODC2,Consignment,Operations
+OGODOC,Consignment,Operations
+OIFC01,Trading Account,Account Status
+OIFCC1,Consignment,Operations
+OIFCOC,Consignment,Operations
+OIRNOC,Closed,Account Status
+OKHT01,Trading Account,Account Status
+OKHTC1,Consignment,Operations
+OKHTOC,Consignment,Operations
+OKNB01,Closed,Account Status
+OKNB02,Closed,Account Status
+OKNX01,Closed,Account Status
+OKRG01,Closed,Account Status
+OMBM01,Closed,Account Status
+OMOLC1,Consignment,Operations
+OMOLC1,Promotional Stand,Retail Format
+OPRFC1,Closed,Account Status
+OPRFC3,Consignment,Operations
+OPRFOC,Closed,Account Status
+OPRM01,Promotion,Marketing
+OPRMOC,Consignment,Operations
+OPRMOC,Promotion,Marketing
+OPRO01,Closed,Account Status
+OPRO03,Closed,Account Status
+OROS01,Trading Account,Account Status
+OROS05,Trading Account,Account Status
+OROS06,Trading Account,Account Status
+OROSC1,Consignment,Operations
+OROSC2,Consignment,Operations
+OROSC3,Consignment,Operations
+OROSCC,Consignment,Operations
+OROSCO,Consignment,Operations
+OROSOC,Closed,Account Status
+OSAA01,Closed,Account Status
+OSAA03,Closed,Account Status
+OSLPC1,Promotional Stand,Retail Format
+OSPLOC,Consignment,Operations
+OSPRC2,Consignment,Operations
+OSPROC,Consignment,Operations
+OWODOC,Consignment,Operations
+OWODOC,Promotional Stand,Retail Format
+PCOT01,Closed,Account Status
+PDILOC,Consignment,Operations
+PHYE02,Trading Account,Account Status
+PHYEC1,Consignment,Operations
+PJEP01,Closed,Account Status
+PKAI01,Closed,Account Status
+PMSE01,Trading Account,Account Status
+PMSEC1,Consignment,Operations
+PMSEOC,Closed,Account Status
+PPAPC1,Consignment,Operations
+PPAPC2,Closed,Account Status
+PPAPCO,Consignment,Operations
+PPAPOC,Closed,Account Status
+PROE01,Trading Account,Account Status
+PROE0C,Closed,Account Status
+PROEC1,Consignment,Operations
+PROEC2,Consignment,Operations
+PROEC2,Promotional Stand,Retail Format
+PROECO,Consignment,Operations
+PROEOC,Closed,Account Status
+PSUCAM,Consignment,Operations
+PSUCAM,Promotional Stand,Retail Format
+PSUE02,Trading Account,Account Status
+PSUEC1,Consignment,Operations
+PSUEC2,Closed,Account Status
+PSUEC3,Consignment,Operations
+PSUEOC,Consignment,Operations
+RABA01,Closed,Account Status
+RABAC1,Consignment,Operations
+RABACO,Consignment,Operations
+RABAO1,Trading Account,Account Status
+RABAOC,Closed,Account Status
+RAFO01,Closed,Account Status
+RARA01,Closed,Account Status
+RBEE01,Closed,Account Status
+RBEM02,Trading Account,Account Status
+RBEMC1,Consignment,Operations
+RBEMOC,Closed,Account Status
+RBUGC1,Consignment,Operations
+RBUNC1,Consignment,Operations
+RBUNOC,Closed,Account Status
+RBUR01,Closed,Account Status
+RCAEC1,Consignment,Operations
+RCHI01,Closed,Account Status
+RCON03,Closed,Account Status
+RCON04,Closed,Account Status
+RDIEOC,Consignment,Operations
+RDOFC0,Consignment,Operations
+RDOFOC,Consignment,Operations
+RHOSC1,Consignment,Operations
+RHOSE1,Trading Account,Account Status
+RKAEC1,Consignment,Operations
+RKAEC1,Promotional Stand,Retail Format
+RKAEC2,Consignment,Operations
+RKELC1,Consignment,Operations
+RKELC1,Promotional Stand,Retail Format
+RKELOC,Consignment,Operations
+RKIK01,Closed,Account Status
+RKOBOC,Consignment,Operations
+RMAAC1,Consignment,Operations
+RMAAC2,Promotional Stand,Retail Format
+RMAAOC,Consignment,Operations
+RMABOC,Consignment,Operations
+RMAE01,Trading Account,Account Status
+RMAEC0,Consignment,Operations
+RMAIOC,Consignment,Operations
+RMAKCO,Promotion,Marketing
+RMEE01,Closed,Account Status
+RNOT04,Trading Account,Account Status
+RNOTOC,Consignment,Operations
+RPAMC2,Consignment,Operations
+RPAMC2,Promotional Stand,Retail Format
+RPAMOC,Closed,Account Status
+RSADOC,Promotion,Marketing
+RSAIOC,Consignment,Operations
+RSTAC1,Consignment,Operations
+RSTAOC,Closed,Account Status
+RSTO01,Closed,Account Status
+RSTU01,Closed,Account Status
+RSTUOC,Consignment,Operations
+RSUT01,Closed,Account Status
+RTOG09,Trading Account,Account Status
+RTOG12,Trading Account,Account Status
+RTOGC2,Closed,Account Status
+RTOGC3,Closed,Account Status
+RTOGC4,Closed,Account Status
+RTOGC5,Promotion,Marketing
+RTOGC6,Consignment,Operations
+RTOGC7,Consignment,Operations
+RTOGC7,Promotion,Marketing
+RTOGC8,Promotion,Marketing
+RTOGCO,Consignment,Operations
+RTOGOC,Consignment,Operations
+RTOGOP,Promotional Stand,Retail Format
+RVAI02,Closed,Account Status
+RVES01,Closed,Account Status
+SABO01,Trading Account,Account Status
+SABOC1,Consignment,Operations
+SAS001,Closed,Account Status
+SASOC1,Consignment,Operations
+SASOC1,Promotional Stand,Retail Format
+SASOC2,Consignment,Operations
+SBETC1,Consignment,Operations
+SBETOC,Closed,Account Status
+SBIH01,Closed,Account Status
+SBIM01,Trading Account,Account Status
+SBIMC1,Consignment,Operations
+SCAA01,Closed,Account Status
+SCAOOC,Consignment,Operations
+SCOM01,Closed,Account Status
+SCOMOC,Consignment,Operations
+SDEM01,Trading Account,Account Status
+SDEMC1,Consignment,Operations
+SDEMOC,Consignment,Operations
+SEAT04,Trading Account,Account Status
+SEATC1,Consignment,Operations
+SEATOC,Consignment,Operations
+SESEOC,Consignment,Operations
+SHAS02,Closed,Account Status
+SINI01,Trading Account,Account Status
+SINIC1,Consignment,Operations
+SINIOC,Consignment,Operations
+SKAO01,Trading Account,Account Status
+SKAOC1,Consignment,Operations
+SKAOOC,Consignment,Operations
+SLEHCO,Promotional Stand,Retail Format
+SMAT02,Trading Account,Account Status
+SMATC1,Consignment,Operations
+SMATC1,Promotional Stand,Retail Format
+SMATC2,Consignment,Operations
+SMTHOC,Consignment,Operations
+SNUI02,Trading Account,Account Status
+SNUIC1,Consignment,Operations
+SNUOC,Closed,Account Status
+SPIT01,Trading Account,Account Status
+SPITCO,Consignment,Operations
+SROEC1,Consignment,Operations
+SROOOC,Consignment,Operations
+SUYO01,Closed,Account Status
+SVII04,Closed,Account Status
+SVII06,Closed,Account Status
+SVII17,Trading Account,Account Status
+SVIIC1,Consignment,Operations
+SVIIC2,Consignment,Operations
+SVIIC2,Promotional Stand,Retail Format
+SVIIOC,Consignment,Operations
+SVIIOC,Promotional Stand,Retail Format
+SVIISQ,Consignment,Operations
+SVIIU1,Consignment,Operations
+SVIOC,Consignment,Operations
+SVIT01,Closed,Account Status
+SWET03,Trading Account,Account Status
+SWET05,Closed,Account Status
+SWETC1,Consignment,Operations
+SWETC2,Consignment,Operations
+SWETC2,Promotional Stand,Retail Format
+SWETC3,Consignment,Operations
+SWETOC,Closed,Account Status
+SWIE01,Closed,Account Status
+SWIEC1,Consignment,Operations
+SWIEOC,Closed,Account Status
+SYSE02,Closed,Account Status
+SYSE03,Closed,Account Status
+SYSEOC,Consignment,Operations
+TACIC2,Consignment,Operations
+TACIC2,Promotional Stand,Retail Format
+TBEHCO,Consignment,Operations
+TBOJC1,Consignment,Operations
+TBOJOC,Closed,Account Status
+TEXR01,Closed,Account Status
+TEXR02,Closed,Account Status
+THC01,Trading Account,Account Status
+THC02,Trading Account,Account Status
+THCC1,Consignment,Operations
+TINOOC,Consignment,Operations
+TINRC1,Consignment,Operations
+TINRC1,Promotional Stand,Retail Format
+TINRC2,Consignment,Operations
+TKAZC1,Consignment,Operations
+TKOZ01,Closed,Account Status
+TLAI01,Closed,Account Status
+TMAH02,Closed,Account Status
+TMALOC,Consignment,Operations
+TMALOC,Promotional Stand,Retail Format
+TMNU01,Closed,Account Status
+TMOAOC,Consignment,Operations
+TMUH01,Trading Account,Account Status
+TMUHC1,Consignment,Operations
+TNAHC1,Closed,Account Status
+TNAHC1,Consignment,Operations
+TNAHC2,Consignment,Operations
+TNAHC2,Promotional Stand,Retail Format
+TNAHOC,Consignment,Operations
+TNAHOC,Promotional Stand,Retail Format
+TNETOC,Consignment,Operations
+TOPBOT,Consignment,Operations
+TOPBOT,Promotional Stand,Retail Format
+TOPC10,Consignment,Operations
+TOPC11,Closed,Account Status
+TOPC11,Consignment,Operations
+TOPC13,Consignment,Operations
+TOPC13,Promotional Stand,Retail Format
+TOPC14,Closed,Account Status
+TOPCC1,Consignment,Operations
+TOPCC2,Closed,Account Status
+TOPCC3,Consignment,Operations
+TOPCC4,Consignment,Operations
+TOPFCS,Consignment,Operations
+TOPI05,Closed,Account Status
+TOPI26,Closed,Account Status
+TOPI28,Closed,Account Status
+TOPI45,Closed,Account Status
+TOPI47,Closed,Account Status
+TOPI49,Trading Account,Account Status
+TOPIC1,Consignment,Operations
+TOPIC1,Promotional Stand,Retail Format
+TOPIC2,Consignment,Operations
+TOPIC3,Consignment,Operations
+TOPIC4,Closed,Account Status
+TOPIC4,Consignment,Operations
+TOPIC5,Consignment,Operations
+TOPIC7,Consignment,Operations
+TOPIC8,Consignment,Operations
+TOPIC9,Consignment,Operations
+TOPICC,Consignment,Operations
+TOPICO,Consignment,Operations
+TOPIKC,Consignment,Operations
+TOPIOC,Consignment,Operations
+TOPIVN,Consignment,Operations
+TOPO01,Trading Account,Account Status
+TOPOC1,Consignment,Operations
+TOPOOC,Consignment,Operations
+TPAEC1,Consignment,Operations
+TPAEC1,Promotional Stand,Retail Format
+TSUTOC,Consignment,Operations
+TWAEC1,Consignment,Operations
+TWAEOC,Closed,Account Status
+TWEZ01,Closed,Account Status
+TWIBC1,Consignment,Operations
+TWIBC1,Promotional Stand,Retail Format
+TWIBC2,Consignment,Operations
+UBAE01,Trading Account,Account Status
+UBAEOC,Consignment,Operations
+UBLF01,Closed,Account Status
+UBLSOC,Consignment,Operations
+UBOG01,Closed,Account Status
+UBOG02,Closed,Account Status
+UBOMC1,Consignment,Operations
+UDRMOC,Consignment,Operations
+UFAL01,Closed,Account Status
+UFALOC,Closed,Account Status
+UFALOC,Consignment,Operations
+UFOR01,Closed,Account Status
+UFORC1,Consignment,Operations
+UFOROC,Consignment,Operations
+UKRG01,Closed,Account Status
+UKRS01,Closed,Account Status
+ULADC1,Consignment,Operations
+ULADC1,Promotional Stand,Retail Format
+UMNKC1,Consignment,Operations
+UMNKC1,Promotional Stand,Retail Format
+UMOT01,Trading Account,Account Status
+UMOTC1,Consignment,Operations
+UNET01,Trading Account,Account Status
+UNET02,Closed,Account Status
+UNETC1,Consignment,Operations
+UNETC1,Promotional Stand,Retail Format
+UNETOC,Consignment,Operations
+USOTC1,Consignment,Operations
+UTREOC,Consignment,Operations
+UYOOC,Consignment,Operations
+UYORC1,Consignment,Operations
+UYORC1,Promotional Stand,Retail Format
+VADE02,Closed,Account Status
+VDAE01,Consignment,Operations
+VDAEOC,Consignment,Operations
+VDAI01,Closed,Account Status
+VDEI01,Closed,Account Status
+VDEROC,Consignment,Operations
+VDICO,Consignment,Operations
+VDII01,Trading Account,Account Status
+VGOEC1,Consignment,Operations
+VGOEC2,Consignment,Operations
+VGOEOC,Closed,Account Status
+VINE01,Closed,Account Status
+VLEI02,Trading Account,Account Status
+VLEI05,Closed,Account Status
+VLEIC1,Consignment,Operations
+VLEIOC,Consignment,Operations
+VLEYC1,Consignment,Operations
+VLEYOC,Consignment,Operations
+VRIO01,Trading Account,Account Status
+VRIO02,Closed,Account Status
+VRIOC1,Consignment,Operations
+VRIOC2,Consignment,Operations
+VRIOC2,Promotional Stand,Retail Format
+VRIOOC,Closed,Account Status
+WCOA01,Trading Account,Account Status
+WCOAC1,Closed,Account Status
+WCOAOC,Closed,Account Status
+WHOE01,Trading Account,Account Status
+WHOEC1,Consignment,Operations
+WHOEOC,Consignment,Operations
+WNECON,Consignment,Operations
+WNEMA,Consignment,Operations
+XFOD01,Closed,Account Status
+XFOY01,Trading Account,Account Status
+XFOYC1,Consignment,Operations
+XFOYC2,Consignment,Operations
+XFOYC3,Consignment,Operations
+XFOYC3,Promotional Stand,Retail Format
+XFOYC4,Consignment,Operations
+XFOYC4,Promotional Stand,Retail Format
+YBOS01,Closed,Account Status
+YBRA01,Closed,Account Status
+YBUCO,Consignment,Operations
+YBUCO,Promotion,Marketing
+YBUS01,Closed,Account Status
+YBUS02,Closed,Account Status
+YBUS03,Closed,Account Status
+YBUS04,Closed,Account Status
+YBUS05,Closed,Account Status
+YBUS06,Closed,Account Status
+YBUS07,Closed,Account Status
+YBUS08,Closed,Account Status
+YBUS09,Closed,Account Status
+YHAA01,Closed,Account Status
+YMAFC0,Consignment,Operations
+YMEEC1,Consignment,Operations
+YMEEO6,Trading Account,Account Status
+YMEEOC,Consignment,Operations
+YMEESA,Consignment,Operations
+YREN03,Trading Account,Account Status
+YRENC1,Consignment,Operations
+YROA14,Promotion,Marketing
+YSTLC1,Consignment,Operations
+YSTLC2,Promotion,Marketing
+YSTLOC,Consignment,Operations
+ZDEI01,Trading Account,Account Status
+ZDEIOC,Consignment,Operations
+ZDOE02,Closed,Account Status
+ZHAY01,Closed,Account Status
+ZNAEOC,Consignment,Operations

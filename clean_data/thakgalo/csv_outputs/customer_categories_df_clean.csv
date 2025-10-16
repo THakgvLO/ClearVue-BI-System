@@ -1,0 +1,11 @@
+CCAT_CODE,CCAT_DESC,CCAT_GROUP
+1,House accounts,Internal: House Account
+11,stock movemnt shipments/backup,Internal: Stock Movement
+12,samples,Internal: Sample
+13,sale goods,Channel: Retail
+28,Botswana trip excl Exports,Channel: Export
+29,Exports incl Botswana,Channel: Export
+3,Speciality stores,Channel: Retail (Specialty)
+5,Consignment,Channel: Consignment
+6,Advertising Appro,Internal: Advertising
+7,Departmentstore,Channel: Retail (Dept Store)
