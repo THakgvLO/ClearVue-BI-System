@@ -1,0 +1,10 @@
+{"CCAT_CODE":1,"CCAT_DESC":"House accounts","CCAT_GROUP":"Internal: House Account"}
+{"CCAT_CODE":11,"CCAT_DESC":"stock movemnt shipments\/backup","CCAT_GROUP":"Internal: Stock Movement"}
+{"CCAT_CODE":12,"CCAT_DESC":"samples","CCAT_GROUP":"Internal: Sample"}
+{"CCAT_CODE":13,"CCAT_DESC":"sale goods","CCAT_GROUP":"Channel: Retail"}
+{"CCAT_CODE":28,"CCAT_DESC":"Botswana trip excl Exports","CCAT_GROUP":"Channel: Export"}
+{"CCAT_CODE":29,"CCAT_DESC":"Exports incl Botswana","CCAT_GROUP":"Channel: Export"}
+{"CCAT_CODE":3,"CCAT_DESC":"Speciality stores","CCAT_GROUP":"Channel: Retail (Specialty)"}
+{"CCAT_CODE":5,"CCAT_DESC":"Consignment","CCAT_GROUP":"Channel: Consignment"}
+{"CCAT_CODE":6,"CCAT_DESC":"Advertising Appro","CCAT_GROUP":"Internal: Advertising"}
+{"CCAT_CODE":7,"CCAT_DESC":"Departmentstore","CCAT_GROUP":"Channel: Retail (Dept Store)"}
